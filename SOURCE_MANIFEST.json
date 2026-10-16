@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-16",
+  "project": "천사의 시",
+  "files": [
+    {
+      "path": "translation/BUILD.md",
+      "source": "translation/BUILD.md",
+      "bytes": 12757,
+      "sha256": "452601a22599ebfce61907ced9915ae3658bfa2bbe92ab44bddff11ce465c28c"
+    },
+    {
+      "path": "translation/outgameinfo_paired.csv",
+      "source": "translation/outgameinfo_paired.csv",
+      "bytes": 4126,
+      "sha256": "44b6f3e467e21d398ac56714369faac9bea7fdd71c15c121260edfb5efec4995"
+    },
+    {
+      "path": "translation/ui_menu_text_paired.xlsx",
+      "source": "translation/ui_menu_text_paired.xlsx",
+      "bytes": 8777,
+      "sha256": "cf6be3a47c57fd4ed8eab788e03cbeacf88b34f8d183dc2c7054fe2c24aaa693"
+    },
+    {
+      "path": "translation/visualscene_paired.xlsx",
+      "source": "translation/visualscene_paired.xlsx",
+      "bytes": 32366,
+      "sha256": "1cbc511e8f25fb4911506d32106e67b97c4a35b80a5158cd2b2ce6848f183f9b"
+    },
+    {
+      "path": "translation/천사의시_3줄초과_수정필요.xlsx",
+      "source": "translation/천사의시_3줄초과_수정필요.xlsx",
+      "bytes": 20292,
+      "sha256": "978b50a6f30478c3a11fba5d192d107866b1a17c676ab9f0d0bf29dde36a6218"
+    },
+    {
+      "path": "translation/천사의시_대사_번역.xlsx",
+      "source": "translation/천사의시_대사_번역.xlsx",
+      "bytes": 968142,
+      "sha256": "c6129afb4cae593845f63c506a1aa847fcd809a866fd00149903d5366b09db5f"
+    },
+    {
+      "path": "translation/패치_배포_설명서.md",
+      "source": "translation/패치_배포_설명서.md",
+      "bytes": 4271,
+      "sha256": "c2ac88c8a75930863fffc3f5feda2089053c86f7013d560be3716a69a25a537f"
+    },
+    {
+      "path": "translation/scripts/apply_replacements.py",
+      "source": "translation/scripts/apply_replacements.py",
+      "bytes": 1682,
+      "sha256": "8e48a97720f1da9ba575ffae33de2efa7be7c7677182e36bc3947b49d51d897f"
+    },
+    {
+      "path": "translation/scripts/apply_visualscene_fixed_utf8.py",
+      "source": "translation/scripts/apply_visualscene_fixed_utf8.py",
+      "bytes": 2133,
+      "sha256": "b257552e850e0462c8d7c89ee4b0474aa7478630fb4afc772a04cd14218e3e6f"
+    },
+    {
+      "path": "translation/scripts/build_patch.ps1",
+      "source": "translation/scripts/build_patch.ps1",
+      "bytes": 16721,
+      "sha256": "a82a95e5f686532222f6aa3cdca44fd3f5b6905ba861bbbca49106300f886b40"
+    },
+    {
+      "path": "translation/scripts/build_replacements.py",
+      "source": "translation/scripts/build_replacements.py",
+      "bytes": 4781,
+      "sha256": "9c26f086c85070ff0c1af1424e7f58f08bb3217ac1de92fbcb60bf6c2ab19e3e"
+    },
+    {
+      "path": "translation/scripts/build_st_replacements.py",
+      "source": "translation/scripts/build_st_replacements.py",
+      "bytes": 1445,
+      "sha256": "a2a7b3d5dfe3c64f690bd8044d472171e4862b34b085235351e3e797aeee3be2"
+    },
+    {
+      "path": "translation/scripts/build_ui_replacements.py",
+      "source": "translation/scripts/build_ui_replacements.py",
+      "bytes": 3448,
+      "sha256": "7a9cf4d2371b96a9bdba036e09ff01b68c1424a329e97f472fef7a1269b5428d"
+    },
+    {
+      "path": "translation/scripts/export_manual_png.py",
+      "source": "translation/scripts/export_manual_png.py",
+      "bytes": 3196,
+      "sha256": "09e79ba975a2db1cb7a7803e4a6be678b81359cb7536a578c88ce0f70fef929d"
+    },
+    {
+      "path": "translation/scripts/extract_strings.py",
+      "source": "translation/scripts/extract_strings.py",
+      "bytes": 3410,
+      "sha256": "3c3fe676b68c622d866c6f9b125a9804bfbbe042f71e5b4b68c67066fc79c509"
+    },
+    {
+      "path": "translation/scripts/hide_paging_cursor.py",
+      "source": "translation/scripts/hide_paging_cursor.py",
+      "bytes": 2186,
+      "sha256": "57ee90079f277cc7de63745b695b06f47d3736a7be3db0c74f58af300f59f12b"
+    },
+    {
+      "path": "translation/scripts/inject_manual_png.py",
+      "source": "translation/scripts/inject_manual_png.py",
+      "bytes": 3731,
+      "sha256": "7c25380a7674a899005f96013bc40c7dc06f2c3447f689ead386753119a52c95"
+    },
+    {
+      "path": "translation/scripts/inject_visualscene_fontsize.py",
+      "source": "translation/scripts/inject_visualscene_fontsize.py",
+      "bytes": 3850,
+      "sha256": "bf66ed072e6d241140ea13bb024415baec73b5d57dbf23397afeecff0675887e"
+    },
+    {
+      "path": "translation/scripts/make_xlsx.py",
+      "source": "translation/scripts/make_xlsx.py",
+      "bytes": 2142,
+      "sha256": "ec2a052ce67c4db6b46267675981e9c6a881e63837d106f78f9a166c03cfc5ee"
+    },
+    {
+      "path": "translation/scripts/pad_visualscene_timing.py",
+      "source": "translation/scripts/pad_visualscene_timing.py",
+      "bytes": 3811,
+      "sha256": "9917646d1884c9d7d32bc00abce13d1f92c16c37e4bb7090b9381f99af994858"
+    },
+    {
+      "path": "translation/scripts/patch_floats_at_offsets.py",
+      "source": "translation/scripts/patch_floats_at_offsets.py",
+      "bytes": 1013,
+      "sha256": "8a757aeec4db2426115f78d2308dadf8bdc917888e34a456e8b5914be253ff38"
+    },
+    {
+      "path": "translation/scripts/patch_font_vertical_metrics.py",
+      "source": "translation/scripts/patch_font_vertical_metrics.py",
+      "bytes": 4670,
+      "sha256": "de900a210fb522ad4e218f8d8540b2d6a7471747364a1cf448388e9a3e4967c3"
+    },
+    {
+      "path": "translation/scripts/patch_paging_cursor_visibility.py",
+      "source": "translation/scripts/patch_paging_cursor_visibility.py",
+      "bytes": 2644,
+      "sha256": "106dbfb3f26367a9d656c0b0ae6bd2946056f8d360d27add644c3b16a73e0a39"
+    },
+    {
+      "path": "translation/scripts/patch_richtext_font_size.py",
+      "source": "translation/scripts/patch_richtext_font_size.py",
+      "bytes": 699,
+      "sha256": "0ad1b9281e29a2b688c71b347be4987bf6b0fc61eada97bf3eb3603726a7bbab"
+    },
+    {
+      "path": "translation/scripts/patch_serialsize_binary.py",
+      "source": "translation/scripts/patch_serialsize_binary.py",
+      "bytes": 1053,
+      "sha256": "1029e37134024cd5580cafb898f4dbcde71858b72a5a2e261cac7f7bd0bac7cd"
+    },
+    {
+      "path": "translation/scripts/patch_visualscene_sync.py",
+      "source": "translation/scripts/patch_visualscene_sync.py",
+      "bytes": 6291,
+      "sha256": "1c812276cd79f0d055dc04ffd989d86d2b5c79a86f251678c6a9607389c2748b"
+    },
+    {
+      "path": "translation/scripts/patch_visualscene_timing_scale.py",
+      "source": "translation/scripts/patch_visualscene_timing_scale.py",
+      "bytes": 1593,
+      "sha256": "3b882a010381338f77fd4ecaa51b9a996acb8d4e07808c91ac1ba7b037410f16"
+    },
+    {
+      "path": "translation/scripts/rewrap_ko.py",
+      "source": "translation/scripts/rewrap_ko.py",
+      "bytes": 3248,
+      "sha256": "be174b941e68c8409df65b44a9de64e2d485f433174d518859d69b6c3904a500"
+    },
+    {
+      "path": "translation/scripts/xlsx2csv_any.py",
+      "source": "translation/scripts/xlsx2csv_any.py",
+      "bytes": 934,
+      "sha256": "b4ebaf6d06527d1b262e7e42744e80801a830408b1851c7b6dc4341b84c3ba30"
+    },
+    {
+      "path": "translation/scripts/xlsx_to_csv.py",
+      "source": "translation/scripts/xlsx_to_csv.py",
+      "bytes": 1762,
+      "sha256": "edcf4bb01aa2d5bac6ca84049797693462b2fcf6f3f9338f3eb15a622d06676a"
+    }
+  ]
+}
