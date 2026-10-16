@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-16",
+  "scope": "Active public reproducible-build inputs. Original assets and tools are externally supplied; 2nd game videos require the pinned release archive. Historical source snapshot is SOURCE_MANIFEST.json.",
+  "files": [
+    {
+      "path": "assets/fonts/Galmuri11-Condensed.ttf",
+      "bytes": 2668536,
+      "sha256": "7b433b4a007c36dfb535fdea11de3e4f4c8b641ab591ed05d3bc0a4bbd75eb5f"
+    },
+    {
+      "path": "assets/fonts/Galmuri9.ttf",
+      "bytes": 4649144,
+      "sha256": "5cb68052ee0a15571747e91c20f145e24b51bb459c6cd58226fafee78d9c0b16"
+    },
+    {
+      "path": "assets/fonts/NotoSansCJKkr-Regular.otf",
+      "bytes": 16433112,
+      "sha256": "6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_1.xdelta",
+      "bytes": 428454,
+      "sha256": "69b362aa4205db67db1b1a37261629de53076bfc4742d5b66492bfca7d3b0213"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_10.xdelta",
+      "bytes": 476124,
+      "sha256": "d94cd5396e4fbaa50bac34f7736449124d6152995a4e5450d2081aa2ab5ffafe"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_11.xdelta",
+      "bytes": 493633,
+      "sha256": "f91a0f7f982bf43c142f7564e91622e2aa99a2c8bdc20876b54a2618694f2142"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_12.xdelta",
+      "bytes": 444339,
+      "sha256": "67d549b4a4cb4d801a406179c11eff4f52228ac30dbd74151071a8b008c57d0a"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_13.xdelta",
+      "bytes": 368442,
+      "sha256": "4d43fed4e643b4092d49e3c1c825c8fe7eda02fd6c53343b0c3bef656f7aa6f7"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_14.xdelta",
+      "bytes": 457781,
+      "sha256": "1d0609fc204be2938659bc655d38fb112ebbd857b9596d184f248d48a9919c07"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_15.xdelta",
+      "bytes": 436227,
+      "sha256": "4c3e0707dc2c730da8e3668ee9a29eec621e6807ffccc3c84fb4d8ba8bd093b6"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_16.xdelta",
+      "bytes": 431228,
+      "sha256": "5279b1193552a1ad11aa88b214d83b4294d5b0d88a456360b361f6b218165fb4"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_17.xdelta",
+      "bytes": 550937,
+      "sha256": "0e2b75fa3fa48be2bf2fb00d9a40bfc1d807bc939e794dfada15e546a03a97ad"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_18.xdelta",
+      "bytes": 647100,
+      "sha256": "6ee04ef4f92e33d4df786867e4a7c2dfb706594d95284a9eacc7a04251efb4a5"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_19.xdelta",
+      "bytes": 421031,
+      "sha256": "c82d5faa3a4c6ab4984d34213d82813f3748b696fe64eea61ce0cd1a9c7bc472"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_2.xdelta",
+      "bytes": 667295,
+      "sha256": "6886d8b025018b34008bd087a06c0b0e3662a34a4b8b20225305899f857bafd2"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_20.xdelta",
+      "bytes": 3504608,
+      "sha256": "32cbd39dd24056b56e16b1f93a7609e9ba5297423322c4660f8f92226a5b066e"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_21.xdelta",
+      "bytes": 428456,
+      "sha256": "6ee9a1ab7ada22b78f6fa73b062942940d0e93aec89d6b0a6b6ba32b3e76eb77"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_22.xdelta",
+      "bytes": 667297,
+      "sha256": "dcd131fe03650d83eee0d9ebe25445063249bec4b482fdd93ef50b2840d3414d"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_23.xdelta",
+      "bytes": 420536,
+      "sha256": "f77c7b52d5cc3400cb4b2fff962e8a6b6315b93fcb3c199c25ed728bd1aeab8a"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_24.xdelta",
+      "bytes": 622236,
+      "sha256": "0fb5f4af520468f503d128c92f650e13c256df9312afbcd4c3c2ccad02377bb8"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_25.xdelta",
+      "bytes": 560917,
+      "sha256": "1352c1972ce5f412a42a4bb803cd59f1e0de98f22bc5139bc359c404bfe5709e"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_26.xdelta",
+      "bytes": 573892,
+      "sha256": "afe3cee6da6768f69c148e4f7db78d404d37a82adfbf1a199382612978c159ac"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_27.xdelta",
+      "bytes": 667573,
+      "sha256": "d6a10cc7598ff1b37f26301bd74d49e4e60e6002b53771141dd1b35085e2b4c8"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_28.xdelta",
+      "bytes": 557775,
+      "sha256": "f6d9ddda9837a1f43263bf0271ff094cb8a1803b3f0ca21ef40020ad13e91076"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_29.xdelta",
+      "bytes": 447032,
+      "sha256": "a6babdddf1fdc964158f457bbd5254ece90cc8944e87ff731e7c5c7de903835c"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_3.xdelta",
+      "bytes": 420530,
+      "sha256": "010493272007f7c5d7625db8c30e152eb91518e60bd9c8a0c43e5d8629470d00"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_30.xdelta",
+      "bytes": 476323,
+      "sha256": "c0ec1e442bb620e309f9ca81fbca10a5f9b493446ed091c5948174f05db4908e"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_31.xdelta",
+      "bytes": 493802,
+      "sha256": "532d3b9261cb289a0447b9305092136990cc8491ce03390cd34cd452482a21f3"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_32.xdelta",
+      "bytes": 444274,
+      "sha256": "88f2d54d0ea9df574f9a23f202fb4bbafaaf09a5916df804b2692afaaa1e71b4"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_33.xdelta",
+      "bytes": 368674,
+      "sha256": "8dcbb32706feed8533f7cf6456307700e67647e57b11700ca487e27fbaa9a203"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_34.xdelta",
+      "bytes": 530335,
+      "sha256": "9ec362d6be46dc8e7e111343af7598fdf022e9259d6920c8f19dc36d2957a9dc"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_35.xdelta",
+      "bytes": 436215,
+      "sha256": "4908996d122c3a0ceba595e8666effd0dde723c37db6b1d1123d5e4a93fb2e05"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_36.xdelta",
+      "bytes": 431295,
+      "sha256": "bfca31c5fcd01dcf1f97cb7b52cde16558993021170dc524f7af49a7420fe144"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_37.xdelta",
+      "bytes": 550885,
+      "sha256": "9e4d2d8a9b53b56aa7c2a06b62243e3faefc5c6ebbfe8f02a9854d03e7802fa0"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_38.xdelta",
+      "bytes": 647064,
+      "sha256": "ba2d5f0079ef061cdcdb48aaa3b90cd228154273c67dade9318f2992c8934280"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_39.xdelta",
+      "bytes": 421031,
+      "sha256": "5ab4efd3421988f55b780afdb0d968026ee7c6fee23d45ee45f87cbb86897b5c"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_4.xdelta",
+      "bytes": 622227,
+      "sha256": "55ca42e0d0a12410dddfb4d17d5f0acfc22e6cea8ad0048a9165f2943a2813c5"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_40.xdelta",
+      "bytes": 3505494,
+      "sha256": "cab68f7806526ea7af16b56571c41737f6f30018ac1901f9012f814eb535341c"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_5.xdelta",
+      "bytes": 560976,
+      "sha256": "21ea89a03dbe781644e6fab67015b90eeb953f99506be3c78649e01ed64b58b7"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_6.xdelta",
+      "bytes": 573579,
+      "sha256": "fffcb6c2b9498238378c8a5ab74d9d4c05549b06198f922ca4b6271a2cd63375"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_7.xdelta",
+      "bytes": 667757,
+      "sha256": "b9c7b209c32851b91b294c5e118b416ff07ce1a3ab87001118d00286581df623"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_8.xdelta",
+      "bytes": 557766,
+      "sha256": "e1f18111e87ed1d792ca712016ca134f0b494a679a43e8ab12e0eb578508a0a4"
+    },
+    {
+      "path": "assets/manual_binary_deltas/Manual1_9.xdelta",
+      "bytes": 447076,
+      "sha256": "31ae4e68a4c10081b7bb29c1d5eb261904bff49c5709cde656b961aec9cbb534"
+    },
+    {
+      "path": "assets/manual_binary_deltas/manifest.json",
+      "bytes": 24769,
+      "sha256": "99fc15303ce0dc7f8c80576c1a7a263092e33c3397038df595242cbf62b5c6ed"
+    },
+    {
+      "path": "assets/release_plans/repl_st.json",
+      "bytes": 11327,
+      "sha256": "6d3c7be55810e27e1947ad1e651c7178664490ec17cf87ca269eebd888948c8b"
+    },
+    {
+      "path": "assets/release_plans/repl_tenshi.json",
+      "bytes": 1400545,
+      "sha256": "1512aab5fd9472d9a8c37c1e6bff15a00fbb9828c34b41a51aff33899ba475d2"
+    },
+    {
+      "path": "assets/release_plans/repl_ui.json",
+      "bytes": 17607,
+      "sha256": "2502765fc99f803075fbac087858da75b52b5cb821ed0791b114126bb30dae85"
+    },
+    {
+      "path": "assets/release_plans/repl_vs.json",
+      "bytes": 67865,
+      "sha256": "c4cb261c62b3bdd5f8d9cf40500e647afd61e15063f88f16e662df4514b8c015"
+    },
+    {
+      "path": "config/rebuild_inputs.json",
+      "bytes": 1079,
+      "sha256": "f4b86aa7c537cdb18816ff0645e00f6b4231f699da0de312fda84f55abf5691c"
+    },
+    {
+      "path": "config/release_payloads.json",
+      "bytes": 8769,
+      "sha256": "f381be42c3fdcd58f63360c8389334fcb1bfc41149cb28f14e78450f290020c4"
+    },
+    {
+      "path": "config/toolchain_sha256.json",
+      "bytes": 348,
+      "sha256": "28ad383d59b0f611d0cf8f51948e769b77217f1b76366b7d629122f114cd936e"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 89,
+      "sha256": "d32326b9bde35962caf480252cd5b57ba22652301f394e5695d5197078602dbc"
+    },
+    {
+      "path": "translation/outgameinfo_paired.csv",
+      "bytes": 4126,
+      "sha256": "44b6f3e467e21d398ac56714369faac9bea7fdd71c15c121260edfb5efec4995"
+    },
+    {
+      "path": "translation/scripts/apply_replacements.py",
+      "bytes": 1682,
+      "sha256": "8e48a97720f1da9ba575ffae33de2efa7be7c7677182e36bc3947b49d51d897f"
+    },
+    {
+      "path": "translation/scripts/apply_visualscene_fixed_utf8.py",
+      "bytes": 2133,
+      "sha256": "b257552e850e0462c8d7c89ee4b0474aa7478630fb4afc772a04cd14218e3e6f"
+    },
+    {
+      "path": "translation/scripts/build_patch.ps1",
+      "bytes": 17825,
+      "sha256": "cb316a89c1aa1d0e10c4036084f7b5b2cfec838b55c73c21bcd8d570c4c68b11"
+    },
+    {
+      "path": "translation/scripts/build_replacements.py",
+      "bytes": 4781,
+      "sha256": "9c26f086c85070ff0c1af1424e7f58f08bb3217ac1de92fbcb60bf6c2ab19e3e"
+    },
+    {
+      "path": "translation/scripts/build_reproducible.ps1",
+      "bytes": 1189,
+      "sha256": "0be435c16a1ff8bff877c110f54684b8b3b02824995b36c2a935def8b34a3d3c"
+    },
+    {
+      "path": "translation/scripts/build_st_replacements.py",
+      "bytes": 1445,
+      "sha256": "a2a7b3d5dfe3c64f690bd8044d472171e4862b34b085235351e3e797aeee3be2"
+    },
+    {
+      "path": "translation/scripts/build_ui_replacements.py",
+      "bytes": 3448,
+      "sha256": "7a9cf4d2371b96a9bdba036e09ff01b68c1424a329e97f472fef7a1269b5428d"
+    },
+    {
+      "path": "translation/scripts/export_manual_png.py",
+      "bytes": 3196,
+      "sha256": "09e79ba975a2db1cb7a7803e4a6be678b81359cb7536a578c88ce0f70fef929d"
+    },
+    {
+      "path": "translation/scripts/extract_strings.py",
+      "bytes": 3410,
+      "sha256": "3c3fe676b68c622d866c6f9b125a9804bfbbe042f71e5b4b68c67066fc79c509"
+    },
+    {
+      "path": "translation/scripts/extract_switch_paks.py",
+      "bytes": 3182,
+      "sha256": "7e9f69010e98f72bf9a2011eb3dc865a5c38dcc70ef850bb2340a5be5d64dc0d"
+    },
+    {
+      "path": "translation/scripts/hide_paging_cursor.py",
+      "bytes": 2186,
+      "sha256": "57ee90079f277cc7de63745b695b06f47d3736a7be3db0c74f58af300f59f12b"
+    },
+    {
+      "path": "translation/scripts/inject_manual_png.py",
+      "bytes": 3731,
+      "sha256": "7c25380a7674a899005f96013bc40c7dc06f2c3447f689ead386753119a52c95"
+    },
+    {
+      "path": "translation/scripts/inject_visualscene_fontsize.py",
+      "bytes": 3850,
+      "sha256": "bf66ed072e6d241140ea13bb024415baec73b5d57dbf23397afeecff0675887e"
+    },
+    {
+      "path": "translation/scripts/make_xlsx.py",
+      "bytes": 2142,
+      "sha256": "ec2a052ce67c4db6b46267675981e9c6a881e63837d106f78f9a166c03cfc5ee"
+    },
+    {
+      "path": "translation/scripts/pad_visualscene_timing.py",
+      "bytes": 3811,
+      "sha256": "9917646d1884c9d7d32bc00abce13d1f92c16c37e4bb7090b9381f99af994858"
+    },
+    {
+      "path": "translation/scripts/patch_floats_at_offsets.py",
+      "bytes": 1013,
+      "sha256": "8a757aeec4db2426115f78d2308dadf8bdc917888e34a456e8b5914be253ff38"
+    },
+    {
+      "path": "translation/scripts/patch_font_vertical_metrics.py",
+      "bytes": 4670,
+      "sha256": "de900a210fb522ad4e218f8d8540b2d6a7471747364a1cf448388e9a3e4967c3"
+    },
+    {
+      "path": "translation/scripts/patch_paging_cursor_visibility.py",
+      "bytes": 2644,
+      "sha256": "106dbfb3f26367a9d656c0b0ae6bd2946056f8d360d27add644c3b16a73e0a39"
+    },
+    {
+      "path": "translation/scripts/patch_richtext_font_size.py",
+      "bytes": 699,
+      "sha256": "0ad1b9281e29a2b688c71b347be4987bf6b0fc61eada97bf3eb3603726a7bbab"
+    },
+    {
+      "path": "translation/scripts/patch_serialsize_binary.py",
+      "bytes": 1053,
+      "sha256": "1029e37134024cd5580cafb898f4dbcde71858b72a5a2e261cac7f7bd0bac7cd"
+    },
+    {
+      "path": "translation/scripts/patch_visualscene_sync.py",
+      "bytes": 6291,
+      "sha256": "1c812276cd79f0d055dc04ffd989d86d2b5c79a86f251678c6a9607389c2748b"
+    },
+    {
+      "path": "translation/scripts/patch_visualscene_timing_scale.py",
+      "bytes": 1593,
+      "sha256": "3b882a010381338f77fd4ecaa51b9a996acb8d4e07808c91ac1ba7b037410f16"
+    },
+    {
+      "path": "translation/scripts/prepare_build_inputs.py",
+      "bytes": 6633,
+      "sha256": "521e40fec9855a5a938e698cceb248adb8721c21e6ff21bba3ecaea652573b8f"
+    },
+    {
+      "path": "translation/scripts/rewrap_ko.py",
+      "bytes": 3248,
+      "sha256": "be174b941e68c8409df65b44a9de64e2d485f433174d518859d69b6c3904a500"
+    },
+    {
+      "path": "translation/scripts/verify_rebuild.py",
+      "bytes": 3205,
+      "sha256": "1d457ef62d2f2b6829de0aaa0eb21d86eab3e42d23d096eb39fef6ccac954dce"
+    },
+    {
+      "path": "translation/scripts/xlsx2csv_any.py",
+      "bytes": 934,
+      "sha256": "b4ebaf6d06527d1b262e7e42744e80801a830408b1851c7b6dc4341b84c3ba30"
+    },
+    {
+      "path": "translation/scripts/xlsx_to_csv.py",
+      "bytes": 1762,
+      "sha256": "edcf4bb01aa2d5bac6ca84049797693462b2fcf6f3f9338f3eb15a622d06676a"
+    },
+    {
+      "path": "translation/ui_menu_text_paired.xlsx",
+      "bytes": 8777,
+      "sha256": "cf6be3a47c57fd4ed8eab788e03cbeacf88b34f8d183dc2c7054fe2c24aaa693"
+    },
+    {
+      "path": "translation/visualscene_paired.xlsx",
+      "bytes": 32366,
+      "sha256": "1cbc511e8f25fb4911506d32106e67b97c4a35b80a5158cd2b2ce6848f183f9b"
+    },
+    {
+      "path": "translation/천사의시_3줄초과_수정필요.xlsx",
+      "bytes": 20292,
+      "sha256": "978b50a6f30478c3a11fba5d192d107866b1a17c676ab9f0d0bf29dde36a6218"
+    },
+    {
+      "path": "translation/천사의시_대사_번역.xlsx",
+      "bytes": 968142,
+      "sha256": "c6129afb4cae593845f63c506a1aa847fcd809a866fd00149903d5366b09db5f"
+    }
+  ]
+}

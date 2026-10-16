@@ -1,0 +1,406 @@
+{
+  "format": "xdelta3-vcdiff",
+  "scope": "Released cooked manual textures reconstructed from owned originals; original textures and editable PNGs are not included.",
+  "entries": [
+    {
+      "name": "Manual1_1",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_1.uexp",
+      "source_sha256": "ef6344b5420827e240f1b8e13ae215e1e7b68c4f6026c2a8a3be12c7feb20aad",
+      "source_uasset_sha256": "545f8d9067a5d25a7c61f351c6180807fcb0a7bb5bdad96a4bdfde7458cd613d",
+      "target_sha256": "35881cfa2a94ab25aa4890286d44522aa759fced71ee15692c76b53092704403",
+      "patch": "assets/manual_binary_deltas/Manual1_1.xdelta",
+      "patch_sha256": "69b362aa4205db67db1b1a37261629de53076bfc4742d5b66492bfca7d3b0213",
+      "patch_bytes": 428454
+    },
+    {
+      "name": "Manual1_10",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_10.uexp",
+      "source_sha256": "59e3d83670bf6a2adfe476a556f289d0094b6c06a363a1b04f751fad5aa89b0b",
+      "source_uasset_sha256": "df62bc23c78493ed9bd06efb07e13d1308e3d8ce8fd37057ed2d48210f94e01c",
+      "target_sha256": "823214f7784a8b0772163de4ea9d9edce7ff60cc434e182d48ad5ed6be1d990a",
+      "patch": "assets/manual_binary_deltas/Manual1_10.xdelta",
+      "patch_sha256": "d94cd5396e4fbaa50bac34f7736449124d6152995a4e5450d2081aa2ab5ffafe",
+      "patch_bytes": 476124
+    },
+    {
+      "name": "Manual1_11",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_11.uexp",
+      "source_sha256": "46a85138a61daeae234c659c9ac02f33a3d3e0144e712b66286e2f54cc862d79",
+      "source_uasset_sha256": "e9e0474d5567d19759f192171cff7caaba0d7ca451955711203f7bfc114084a7",
+      "target_sha256": "2cd9a2c822de8dd679ab46f8ffb63712aeb250e2437e244ca8bf10df7af79fba",
+      "patch": "assets/manual_binary_deltas/Manual1_11.xdelta",
+      "patch_sha256": "f91a0f7f982bf43c142f7564e91622e2aa99a2c8bdc20876b54a2618694f2142",
+      "patch_bytes": 493633
+    },
+    {
+      "name": "Manual1_12",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_12.uexp",
+      "source_sha256": "e3c20d67b2aafaca7014ce02ebd0468e074a6e80a52555ca4c1da0eecd1285f1",
+      "source_uasset_sha256": "1167b1bf8051c279202558f125bfba2bcaadc7733954348bf9c572e3be29ce29",
+      "target_sha256": "8df1b9b0f407cf59118a58e0df31ec9be52b871c97de58a2212c812f846675ac",
+      "patch": "assets/manual_binary_deltas/Manual1_12.xdelta",
+      "patch_sha256": "67d549b4a4cb4d801a406179c11eff4f52228ac30dbd74151071a8b008c57d0a",
+      "patch_bytes": 444339
+    },
+    {
+      "name": "Manual1_13",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_13.uexp",
+      "source_sha256": "8011559307a87eedf0e858f716f1691301e8f3d30b3a747db41d0f4bc591c558",
+      "source_uasset_sha256": "e24b0a5e6622853e2d808f184ad22fd9a082a9bb7305ca322ff87a2e439edbeb",
+      "target_sha256": "de081545a60e5d9676f64e661334a7af26859894d4fb3abc829c5f598c81dcb5",
+      "patch": "assets/manual_binary_deltas/Manual1_13.xdelta",
+      "patch_sha256": "4d43fed4e643b4092d49e3c1c825c8fe7eda02fd6c53343b0c3bef656f7aa6f7",
+      "patch_bytes": 368442
+    },
+    {
+      "name": "Manual1_14",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_14.uexp",
+      "source_sha256": "9dab613422d4dfe72970e878b2d88fd73b7ffb07ccba7fd118a9993672d481f6",
+      "source_uasset_sha256": "4bd53c450201b050ed197bbc258470b536ee7999ac14f1b2ba9664378e19fe1d",
+      "target_sha256": "cab3b1243369498a88b5b5a34e27e847ae38d76922ab2240c6d103495954b484",
+      "patch": "assets/manual_binary_deltas/Manual1_14.xdelta",
+      "patch_sha256": "1d0609fc204be2938659bc655d38fb112ebbd857b9596d184f248d48a9919c07",
+      "patch_bytes": 457781
+    },
+    {
+      "name": "Manual1_15",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_15.uexp",
+      "source_sha256": "991504da77b54cf143e6865c0c7d8d9183fd9d09df1d04fed3795d812f664187",
+      "source_uasset_sha256": "b382ef180995cfac07dc05ae82f2707e8b7eddc0654d81ba78fc34b5fefa8abb",
+      "target_sha256": "b1d804163d951fd613c122efff6993e606833eecf7c01a4049c37ff9b5f6f2bd",
+      "patch": "assets/manual_binary_deltas/Manual1_15.xdelta",
+      "patch_sha256": "4c3e0707dc2c730da8e3668ee9a29eec621e6807ffccc3c84fb4d8ba8bd093b6",
+      "patch_bytes": 436227
+    },
+    {
+      "name": "Manual1_16",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_16.uexp",
+      "source_sha256": "416f4883259ba88276d0f8f49338b1e97c877c5d5586513c41be9d04ad7188d4",
+      "source_uasset_sha256": "e72558f6bf9ccb23a67829dbd0eedcc1bcb932df1e40340db20215bb354cc863",
+      "target_sha256": "2050119f743809b0dccd4500343b5e0350ffd09c67489c2c87674a8ee78bd296",
+      "patch": "assets/manual_binary_deltas/Manual1_16.xdelta",
+      "patch_sha256": "5279b1193552a1ad11aa88b214d83b4294d5b0d88a456360b361f6b218165fb4",
+      "patch_bytes": 431228
+    },
+    {
+      "name": "Manual1_17",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_17.uexp",
+      "source_sha256": "a20d103e88e8c8b56889485f2ec4b140c7e73d8bd5b2febea3cac5ecbffd2f0f",
+      "source_uasset_sha256": "374ed2f031ad8b65c801c3f9da002a0bf60e16f1320c0d1d95d3bcd2dc64ddd6",
+      "target_sha256": "733e3af172157a0871140bb9dcf07b32e67e3aa29b0bb0a784f319ab5afb12f5",
+      "patch": "assets/manual_binary_deltas/Manual1_17.xdelta",
+      "patch_sha256": "0e2b75fa3fa48be2bf2fb00d9a40bfc1d807bc939e794dfada15e546a03a97ad",
+      "patch_bytes": 550937
+    },
+    {
+      "name": "Manual1_18",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_18.uexp",
+      "source_sha256": "4efb6e5f697f3c87666d9fb4655b2f30bbf34326c91e4eb25d48018ea84d9524",
+      "source_uasset_sha256": "79a4e024b80887ff16e6346243bd39d35c445d42c53689c5b659a6942305d603",
+      "target_sha256": "c19d49428fc10a806579b88f72f523fd6e04dcf4453474296789bc48152ca260",
+      "patch": "assets/manual_binary_deltas/Manual1_18.xdelta",
+      "patch_sha256": "6ee04ef4f92e33d4df786867e4a7c2dfb706594d95284a9eacc7a04251efb4a5",
+      "patch_bytes": 647100
+    },
+    {
+      "name": "Manual1_19",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_19.uexp",
+      "source_sha256": "57cefe29b4cdeb4a7d329a1f174d547f76fc53365568980c4a71cb6e13c3a922",
+      "source_uasset_sha256": "fbfe30b4ffb5926a52926f7a74353a4273c35b398d065dac509ec54f3110a078",
+      "target_sha256": "efae3fca230b448fc14e75ba01876743c253ca92eb6794fb1c89b660aedd30f9",
+      "patch": "assets/manual_binary_deltas/Manual1_19.xdelta",
+      "patch_sha256": "c82d5faa3a4c6ab4984d34213d82813f3748b696fe64eea61ce0cd1a9c7bc472",
+      "patch_bytes": 421031
+    },
+    {
+      "name": "Manual1_2",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_2.uexp",
+      "source_sha256": "7c7939d20dc38eaf874ed31e9e660f944a334827530cf472e2d65d82c1563406",
+      "source_uasset_sha256": "6a18edb187e58c4fa44a3e1c38be9ac93fae765f99103c796ae85516a16d7a69",
+      "target_sha256": "980c52e383a644d15862f40c1d3e9713220718072e06b18be89b8d9fc757d026",
+      "patch": "assets/manual_binary_deltas/Manual1_2.xdelta",
+      "patch_sha256": "6886d8b025018b34008bd087a06c0b0e3662a34a4b8b20225305899f857bafd2",
+      "patch_bytes": 667295
+    },
+    {
+      "name": "Manual1_20",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_20.uexp",
+      "source_sha256": "851a3f7d04cda7318f9978e97e6839d4977c2e4b843f854799f0b92a25661e00",
+      "source_uasset_sha256": "3d97b0b0f7fb0d7a7b6239c37f9b08c3460d072c7a8e1296bee9cac9beb97b96",
+      "target_sha256": "1fb164c4bc6f6de18a30107f987e2a3685a0bf56450784dd2fc114f4875883ba",
+      "patch": "assets/manual_binary_deltas/Manual1_20.xdelta",
+      "patch_sha256": "32cbd39dd24056b56e16b1f93a7609e9ba5297423322c4660f8f92226a5b066e",
+      "patch_bytes": 3504608
+    },
+    {
+      "name": "Manual1_21",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_21.uexp",
+      "source_sha256": "70f71d519f04e5d66f5ee9a03f42769fe41bd0424a2bcc44248b2fdc29478aed",
+      "source_uasset_sha256": "5b4a41b095fb6820098f2988017d6c435de7b9dd4acc1ad4345b072629c051e8",
+      "target_sha256": "a622c0c1bb1a00ee97743fe01b395ddf246ed65aad14b5f86362ba675e4b7e70",
+      "patch": "assets/manual_binary_deltas/Manual1_21.xdelta",
+      "patch_sha256": "6ee9a1ab7ada22b78f6fa73b062942940d0e93aec89d6b0a6b6ba32b3e76eb77",
+      "patch_bytes": 428456
+    },
+    {
+      "name": "Manual1_22",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_22.uexp",
+      "source_sha256": "700a5dd359166bb46b5fcd63797d9e0f61102b4ebdbfc0b1380eb77d29cd9f6c",
+      "source_uasset_sha256": "40d887ac503ddcae42303640ecfd531c79d0f1266c9bf4c50eac314090426137",
+      "target_sha256": "004c790e337fb796493c971c66b39ade3c2083cf1bc9128aae9c6fb58b990b34",
+      "patch": "assets/manual_binary_deltas/Manual1_22.xdelta",
+      "patch_sha256": "dcd131fe03650d83eee0d9ebe25445063249bec4b482fdd93ef50b2840d3414d",
+      "patch_bytes": 667297
+    },
+    {
+      "name": "Manual1_23",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_23.uexp",
+      "source_sha256": "8a92135b7866c3892b175b705d308e02c69eaf8d1e98951d2c9fe6924db983b1",
+      "source_uasset_sha256": "f7af910f2b04b0b51013665203c9f2cc3079c283915d7db6b8c88d3c6d3fdb94",
+      "target_sha256": "2877a7d11a96ed539951810eaef4a5bd799addebf55164d74198cc368a151415",
+      "patch": "assets/manual_binary_deltas/Manual1_23.xdelta",
+      "patch_sha256": "f77c7b52d5cc3400cb4b2fff962e8a6b6315b93fcb3c199c25ed728bd1aeab8a",
+      "patch_bytes": 420536
+    },
+    {
+      "name": "Manual1_24",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_24.uexp",
+      "source_sha256": "ad60f33b36fc475cb6a285a6fce3c8d3633c28778f8420949478dc367302fd98",
+      "source_uasset_sha256": "2379fede022d82f7fae0d086714f168e945613fe3a89a97c8b94b3ca0a95fb0b",
+      "target_sha256": "f905e76acaacbac483046782a27a9d717f4385be61734d8e3984a81c85ce851e",
+      "patch": "assets/manual_binary_deltas/Manual1_24.xdelta",
+      "patch_sha256": "0fb5f4af520468f503d128c92f650e13c256df9312afbcd4c3c2ccad02377bb8",
+      "patch_bytes": 622236
+    },
+    {
+      "name": "Manual1_25",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_25.uexp",
+      "source_sha256": "717e608deed0c2c11b9241fad9dbdd171a4f436b43151957ce6c22e22e4d09cb",
+      "source_uasset_sha256": "4484ae874ebbe5a7b0ae8dcd49725ffa9f608424c556401e4187ec9af3b508ae",
+      "target_sha256": "93e549615354b6c48e2f356d81234a3987899f2b028476c198f027c6aa166649",
+      "patch": "assets/manual_binary_deltas/Manual1_25.xdelta",
+      "patch_sha256": "1352c1972ce5f412a42a4bb803cd59f1e0de98f22bc5139bc359c404bfe5709e",
+      "patch_bytes": 560917
+    },
+    {
+      "name": "Manual1_26",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_26.uexp",
+      "source_sha256": "cf1efc4b6f6e1bb7b1c676235df4f6dae403f14a3e122d8e5e714f63ce6b082e",
+      "source_uasset_sha256": "bab27486a9c4bc2ac713876903ac96ae24d81682e4a0f5382c123e5e132a4863",
+      "target_sha256": "85bc5bddf8b642e11cc87a6cb1127abe2ee55818d6a79a5ab861e585bd5641af",
+      "patch": "assets/manual_binary_deltas/Manual1_26.xdelta",
+      "patch_sha256": "afe3cee6da6768f69c148e4f7db78d404d37a82adfbf1a199382612978c159ac",
+      "patch_bytes": 573892
+    },
+    {
+      "name": "Manual1_27",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_27.uexp",
+      "source_sha256": "72b9f2e52dc02083d883f885b0b1282354dc6705dcafcbb0c803dc470d89f65c",
+      "source_uasset_sha256": "da96a32d83b744a464d3734bbcc64a932b530cff226ed357b826300b7c8f6d99",
+      "target_sha256": "8b652064ce702d94980b0a000a8633a64faa8c4029c1eeb475bcf27333dce82c",
+      "patch": "assets/manual_binary_deltas/Manual1_27.xdelta",
+      "patch_sha256": "d6a10cc7598ff1b37f26301bd74d49e4e60e6002b53771141dd1b35085e2b4c8",
+      "patch_bytes": 667573
+    },
+    {
+      "name": "Manual1_28",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_28.uexp",
+      "source_sha256": "81a4e65582bc9a3253eeddc3a22869f9c5e4a4550c75babf62172b479f0f2ef5",
+      "source_uasset_sha256": "bfa6689b6e19cf049de56946405dbba25b820c6d0a5d92aad11836f9cd2e59f6",
+      "target_sha256": "d4344618038b34063734007a7178cd50e888ae4fc1622e388e546d53fe93dbf4",
+      "patch": "assets/manual_binary_deltas/Manual1_28.xdelta",
+      "patch_sha256": "f6d9ddda9837a1f43263bf0271ff094cb8a1803b3f0ca21ef40020ad13e91076",
+      "patch_bytes": 557775
+    },
+    {
+      "name": "Manual1_29",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_29.uexp",
+      "source_sha256": "53b4fdfd100d5c82694bed2d359b6a5d8da3f4f8e6a6be7cd05ec9bf4db9e5a8",
+      "source_uasset_sha256": "a2c03e68ddd3910d28aeaa665e5e8f43aa31bb84a180496c7a75b1c97887144c",
+      "target_sha256": "1478a003074d9452b1044986b3c16dcc8af9775aaae8ce8242d4fc3f9ec176ba",
+      "patch": "assets/manual_binary_deltas/Manual1_29.xdelta",
+      "patch_sha256": "a6babdddf1fdc964158f457bbd5254ece90cc8944e87ff731e7c5c7de903835c",
+      "patch_bytes": 447032
+    },
+    {
+      "name": "Manual1_3",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_3.uexp",
+      "source_sha256": "5714ea78f91b6cb3a7309b432075891d0ecb9dc581991877ab1ce40545a4d6d2",
+      "source_uasset_sha256": "39b6a9a8d372d38379a259ee27dc5d26ba762dc46fa582e9ba6eb73c598f699c",
+      "target_sha256": "346ec49d8693305a281aca505756b48006fac49aa1c4e218b08547d81cb28f52",
+      "patch": "assets/manual_binary_deltas/Manual1_3.xdelta",
+      "patch_sha256": "010493272007f7c5d7625db8c30e152eb91518e60bd9c8a0c43e5d8629470d00",
+      "patch_bytes": 420530
+    },
+    {
+      "name": "Manual1_30",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_30.uexp",
+      "source_sha256": "0911d1700728413da16179382f8e9e83eb6423bae74ca9ccb30bec87d2d893d5",
+      "source_uasset_sha256": "0a10111c61533f81f78cb1abc172d2aabf32cf1d0ba1fc1a38a4845228013763",
+      "target_sha256": "92f396008e131a8bbff73a5d95746962006219173a0faf7195b3fc146f71b52f",
+      "patch": "assets/manual_binary_deltas/Manual1_30.xdelta",
+      "patch_sha256": "c0ec1e442bb620e309f9ca81fbca10a5f9b493446ed091c5948174f05db4908e",
+      "patch_bytes": 476323
+    },
+    {
+      "name": "Manual1_31",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_31.uexp",
+      "source_sha256": "66538654ce1cbb377aee8b960013ef89fc6084e1a008943ce755c7c9976477be",
+      "source_uasset_sha256": "7e636c39d13e9944507483692ecb395bddfb032f75fedbaeae3b6032f5a34f90",
+      "target_sha256": "6a347fc1058f9ceaf836e2587493726e3b436872724637e70feb8dd75869574e",
+      "patch": "assets/manual_binary_deltas/Manual1_31.xdelta",
+      "patch_sha256": "532d3b9261cb289a0447b9305092136990cc8491ce03390cd34cd452482a21f3",
+      "patch_bytes": 493802
+    },
+    {
+      "name": "Manual1_32",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_32.uexp",
+      "source_sha256": "0a24a832bf0b03b69762edf2e65532599d859d2167cad12bb1bde0f2951ee332",
+      "source_uasset_sha256": "f0d6030d9b58c87f6aae258cdc57cf62767946588b147a947718246c07125452",
+      "target_sha256": "469d5fe607cd9ee15df328e87181ba2ad2cc099da143d251eeaa9918af4892b2",
+      "patch": "assets/manual_binary_deltas/Manual1_32.xdelta",
+      "patch_sha256": "88f2d54d0ea9df574f9a23f202fb4bbafaaf09a5916df804b2692afaaa1e71b4",
+      "patch_bytes": 444274
+    },
+    {
+      "name": "Manual1_33",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_33.uexp",
+      "source_sha256": "8ef0dd8c006dee524af7f312a62ab4feddf230a439193b1f9c5045efcad2c9ca",
+      "source_uasset_sha256": "6cf1ecd173e782961ba2a6fb9d85cc82b451fdfebc6b96c250efeba0498f7050",
+      "target_sha256": "aa55335224b5f6c6d21b51b9d2e391a6e4dd366d676b694494fb5fde07e326c8",
+      "patch": "assets/manual_binary_deltas/Manual1_33.xdelta",
+      "patch_sha256": "8dcbb32706feed8533f7cf6456307700e67647e57b11700ca487e27fbaa9a203",
+      "patch_bytes": 368674
+    },
+    {
+      "name": "Manual1_34",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_34.uexp",
+      "source_sha256": "60e922ad426129bb349929c5e380952732496d20dc672143f99b21f32e33a458",
+      "source_uasset_sha256": "c8baf0b29a231a1df0e4cecb5410c0ddd9fefc5fbb89a4229e3a1c2b394a4ffd",
+      "target_sha256": "f5cbf90bd7ee1c0cdf9dfad3483890c3b7032dfb0cf8330c1dcf4def2c80c9ff",
+      "patch": "assets/manual_binary_deltas/Manual1_34.xdelta",
+      "patch_sha256": "9ec362d6be46dc8e7e111343af7598fdf022e9259d6920c8f19dc36d2957a9dc",
+      "patch_bytes": 530335
+    },
+    {
+      "name": "Manual1_35",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_35.uexp",
+      "source_sha256": "cad7226fd938fd10815abe3a0a3f441d786173bacd6c1308964df0441257f302",
+      "source_uasset_sha256": "55b1642c6b29728a2d8a10dcf363fbe8593697ae017cea42fcaa9c5ddf78e1b6",
+      "target_sha256": "789c571be2fcb73a8c1cf58a87669af71b89d496adbeb469b5076aa913d1b0a1",
+      "patch": "assets/manual_binary_deltas/Manual1_35.xdelta",
+      "patch_sha256": "4908996d122c3a0ceba595e8666effd0dde723c37db6b1d1123d5e4a93fb2e05",
+      "patch_bytes": 436215
+    },
+    {
+      "name": "Manual1_36",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_36.uexp",
+      "source_sha256": "fbc1f0d88b6a6b9e97390011f4af9fce9d4b17c1d9a0b1f5fcc9b9aef9cf00e6",
+      "source_uasset_sha256": "7419a7e4f1b81e1762871bcb5391f485e7b0dd4ae65a4df1fde864769524bb66",
+      "target_sha256": "ffd53b3db525bd3d5740597445dca3eb70cec8508d367a28d90b716da8ea1f2f",
+      "patch": "assets/manual_binary_deltas/Manual1_36.xdelta",
+      "patch_sha256": "bfca31c5fcd01dcf1f97cb7b52cde16558993021170dc524f7af49a7420fe144",
+      "patch_bytes": 431295
+    },
+    {
+      "name": "Manual1_37",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_37.uexp",
+      "source_sha256": "396efe50e5ac8ba58dfee3383c580a4e93d9f3479ae705746e101dbf7adb1649",
+      "source_uasset_sha256": "4ba93ac86e4026d2730ae4a6337a8b3697987dfbd0a3c90c618c0a9f988eea2f",
+      "target_sha256": "c85aad24a3e5c9655a7956edcd24606029b268d9cdaa53e4d796bb3cb844b2e9",
+      "patch": "assets/manual_binary_deltas/Manual1_37.xdelta",
+      "patch_sha256": "9e4d2d8a9b53b56aa7c2a06b62243e3faefc5c6ebbfe8f02a9854d03e7802fa0",
+      "patch_bytes": 550885
+    },
+    {
+      "name": "Manual1_38",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_38.uexp",
+      "source_sha256": "301678d1fde4b811d2f27ef08397db9f28f1b78d355eefe6609d823d90756a50",
+      "source_uasset_sha256": "83c14af0950f55d5ee16ff3cd08f3ca43d387817b39dc1c5dc1fbe1620061ea5",
+      "target_sha256": "7265ed98271b26c89f9b3befd5da3e7bf4142c5a994143817f294e864f9b4ece",
+      "patch": "assets/manual_binary_deltas/Manual1_38.xdelta",
+      "patch_sha256": "ba2d5f0079ef061cdcdb48aaa3b90cd228154273c67dade9318f2992c8934280",
+      "patch_bytes": 647064
+    },
+    {
+      "name": "Manual1_39",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_39.uexp",
+      "source_sha256": "a72ee4010e428e6dbb4710bad20a801927a77acc84599640edafd697048e0387",
+      "source_uasset_sha256": "3d259e0bdd451aa6a2189249e1885baa5104282704d57905369662f548af6e49",
+      "target_sha256": "9775429acdc4849abe3e91927f0873395efe4ec1a24cbddc2e74abfaeeccb4dc",
+      "patch": "assets/manual_binary_deltas/Manual1_39.xdelta",
+      "patch_sha256": "5ab4efd3421988f55b780afdb0d968026ee7c6fee23d45ee45f87cbb86897b5c",
+      "patch_bytes": 421031
+    },
+    {
+      "name": "Manual1_4",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_4.uexp",
+      "source_sha256": "54eca43e90dd776d916ab76f90b7f28b4b3cb8b02c69657095c640a2450579ef",
+      "source_uasset_sha256": "60b0d50cab613245bd9819ba9376bcd8e76b9e9296395a56be1ba5a4a390f3c1",
+      "target_sha256": "d22c895dce6cd5d2fc7e29344d858dc09b06cf17f36795b07ea25494ba7f7499",
+      "patch": "assets/manual_binary_deltas/Manual1_4.xdelta",
+      "patch_sha256": "55ca42e0d0a12410dddfb4d17d5f0acfc22e6cea8ad0048a9165f2943a2813c5",
+      "patch_bytes": 622227
+    },
+    {
+      "name": "Manual1_40",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_40.uexp",
+      "source_sha256": "5a1b546e0638709d4658130adb210aaa3b2d60c00c1290dc2a4033c97ecb08c9",
+      "source_uasset_sha256": "a7caaa191a04e48b426b78fb3b36011756d81cf9b85402bf7b837bc620993dff",
+      "target_sha256": "c7460f4148d8178a5318fdf3c3a587b4d89c3bd081601871c767dc5193d4073f",
+      "patch": "assets/manual_binary_deltas/Manual1_40.xdelta",
+      "patch_sha256": "cab68f7806526ea7af16b56571c41737f6f30018ac1901f9012f814eb535341c",
+      "patch_bytes": 3505494
+    },
+    {
+      "name": "Manual1_5",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_5.uexp",
+      "source_sha256": "7af8f6274fbc93262eb0ff3f09be34d907ead771f730ec2a5486169a1455b3ee",
+      "source_uasset_sha256": "0cb3df15095a49409996147dc00cd6463ae1d596054e2b3408023a285b905eaf",
+      "target_sha256": "977a73b3f926b24f9880e596a9bbc166a693bb3990f92ac2f94f156d34928164",
+      "patch": "assets/manual_binary_deltas/Manual1_5.xdelta",
+      "patch_sha256": "21ea89a03dbe781644e6fab67015b90eeb953f99506be3c78649e01ed64b58b7",
+      "patch_bytes": 560976
+    },
+    {
+      "name": "Manual1_6",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_6.uexp",
+      "source_sha256": "7a7b9f11d27b1bc5a2c4ab71199557c2bb22e0462b3e1b00015b99b0db74ac17",
+      "source_uasset_sha256": "94652c96f78d154609466e9ded8b8f929772f2288500620e96d12558fd9c2540",
+      "target_sha256": "f5e343fdc2dc5b1abcca3b54973c7bb4e0215ad58931ba744466cbe415fc2a56",
+      "patch": "assets/manual_binary_deltas/Manual1_6.xdelta",
+      "patch_sha256": "fffcb6c2b9498238378c8a5ab74d9d4c05549b06198f922ca4b6271a2cd63375",
+      "patch_bytes": 573579
+    },
+    {
+      "name": "Manual1_7",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_7.uexp",
+      "source_sha256": "53704fb7e0ff1f10656e44e7829c7ef57503bad07d1de3a6cc64526e4582c4ea",
+      "source_uasset_sha256": "6e31b30b27ccf3c803135977fb08606d61fc5c7d656ea194f1298047c097a6b8",
+      "target_sha256": "26f7a11926f501127cf31ff9bd928ad40f05e3bd1479f8bc8c11149454cb3e8e",
+      "patch": "assets/manual_binary_deltas/Manual1_7.xdelta",
+      "patch_sha256": "b9c7b209c32851b91b294c5e118b416ff07ce1a3ab87001118d00286581df623",
+      "patch_bytes": 667757
+    },
+    {
+      "name": "Manual1_8",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_8.uexp",
+      "source_sha256": "8ba73d98238f4af2bc90c0a5fa26d4886f0ef22f74d24710814fd14f45af36cf",
+      "source_uasset_sha256": "9c6c3ac10cb984f4a7e0c0c8504b0c0c5b6d896c19539f94691e256c05e1bd64",
+      "target_sha256": "317a0d085f00d9ae55997dcc7e0fe66454386eca490535ad5128d6c4d4aa8be2",
+      "patch": "assets/manual_binary_deltas/Manual1_8.xdelta",
+      "patch_sha256": "e1f18111e87ed1d792ca712016ca134f0b494a679a43e8ab12e0eb578508a0a4",
+      "patch_bytes": 557766
+    },
+    {
+      "name": "Manual1_9",
+      "relative_path": "Emulator_Tenshinouta/Content/Ogix/Texture/Game_1/ManualBook/Manual1_9.uexp",
+      "source_sha256": "4c2f44b4dae18ade7089f9f1e5c6cd39d25d1e7b83f708e398fdfe265f390205",
+      "source_uasset_sha256": "a1e03546aa6ea3e78873c07deef5016d8b8fa8e5c210b5a7c222d3b6156edce8",
+      "target_sha256": "e6701c64d1d80414ac8cc3e902229c04d30eb90fde3ee63f4b00ae747900e8c7",
+      "patch": "assets/manual_binary_deltas/Manual1_9.xdelta",
+      "patch_sha256": "31ae4e68a4c10081b7bb29c1d5eb261904bff49c5709cde656b961aec9cbb534",
+      "patch_bytes": 447076
+    }
+  ]
+}

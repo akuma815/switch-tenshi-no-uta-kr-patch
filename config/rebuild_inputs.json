@@ -1,0 +1,24 @@
+{
+  "game_number": 1,
+  "original_paks_sha256": {
+    "Emulator_Tenshinouta-Switch.pak": "bb3e40cef9f16f27ad73dcd9d1c5251ce993be0beb9f15279a3b38ab0214ce3a",
+    "Emulator_Tenshinouta-Switch.ucas": "e81413f9c5381ec5b8205efdedc324293122064f0227bcd24f609578fdea0d1f",
+    "Emulator_Tenshinouta-Switch.utoc": "bd1ce15edfed79e3157e5f568eac8fcf01e4d98e5bb1ba540ed191caec6f74fb",
+    "global.ucas": "83f659d3f67218159bbf240ffe26ba855743c70cf5c24d0739f40ded007a4e57",
+    "global.utoc": "2b838eb5d4a88412d6c2337f0a117da502ca999843ecffcd2ce7509859d443fb"
+  },
+  "original_packages": [
+    {
+      "folder": "Roms",
+      "name": "Tenshi no Uta - The Angel Verse [010096F021294000][v0][US][Base].nsp",
+      "bytes": 660920144,
+      "sha256": "9bf271158840f9d1f38a541661866955eea799f4d26dc5004a8cc76d17c7af96"
+    },
+    {
+      "folder": "Update",
+      "name": "Tenshi no Uta - The Angel Verse [010096F021294800][v65536][US][Up v1.0.1].nsp",
+      "bytes": 53893456,
+      "sha256": "a1495fbb29e2b05561d0ab73e3ca7c761b54ebe22f2213a6b35745e86d3e609c"
+    }
+  ]
+}

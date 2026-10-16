@@ -1,0 +1,2676 @@
+[
+ {
+  "offset": 64,
+  "old_encoding": "ascii",
+  "old_length_field": 25,
+  "old_text": "Planning   Kenichi Nishi",
+  "new_text": "기획 니시 켄이치"
+ },
+ {
+  "offset": 159,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Character Design\nHiroshi Fuji",
+  "new_text": "캐릭터 디자인\n후지 히로시"
+ },
+ {
+  "offset": 237,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "Song of the Angel",
+  "new_text": "천사의 시"
+ },
+ {
+  "offset": 319,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "Graphic Direction\nKiyofumi Kato",
+  "new_text": "그래픽 감독\n카토 키요후미"
+ },
+ {
+  "offset": 417,
+  "old_encoding": "ascii",
+  "old_length_field": 35,
+  "old_text": "Today is the day you become a man.",
+  "new_text": "오늘부터 너도 어른의 대열에 합류하는구나"
+ },
+ {
+  "offset": 516,
+  "old_encoding": "ascii",
+  "old_length_field": 28,
+  "old_text": "Be careful out there, Cael.",
+  "new_text": "조심해서 다녀오세요, 케알"
+ },
+ {
+  "offset": 610,
+  "old_encoding": "ascii",
+  "old_length_field": 35,
+  "old_text": "Music\nShinobu Ogawa\nMichiko Naruke",
+  "new_text": "음악\n오가와 후미오\n나리모 미치코"
+ },
+ {
+  "offset": 677,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 710,
+  "old_encoding": "ascii",
+  "old_length_field": 19,
+  "old_text": "Okay, I'll be off.",
+  "new_text": "네, 다녀오겠습니다"
+ },
+ {
+  "offset": 799,
+  "old_encoding": "ascii",
+  "old_length_field": 35,
+  "old_text": "Music\nShinobu Ogawa\nMichiko Naruke",
+  "new_text": "음악\n오가와 후미오\n나리모 미치코"
+ },
+ {
+  "offset": 932,
+  "old_encoding": "ascii",
+  "old_length_field": 84,
+  "old_text": "Planning Assistance\nTetsuro Shibata\nAkifumi Kaneko\nSub-programming\nKatsunori Sasaki",
+  "new_text": "기획 보조\n시바타 테츠로\n카네코 아키후미\n서브 프로그램\n사사키 카츠노리"
+ },
+ {
+  "offset": 1320,
+  "old_encoding": "ascii",
+  "old_length_field": 27,
+  "old_text": "Town Graphics\nTakeshi Yabe",
+  "new_text": "마을 그래픽\n야베 켄지"
+ },
+ {
+  "offset": 1391,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "Congratulations!",
+  "new_text": "축하해"
+ },
+ {
+  "offset": 1440,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 1465,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Thanks.",
+  "new_text": "고마워요"
+ },
+ {
+  "offset": 1517,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Hahahaha!",
+  "new_text": "하하하하!"
+ },
+ {
+  "offset": 1569,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Hehehe!",
+  "new_text": "후후훗"
+ },
+ {
+  "offset": 1621,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "Congratulations!",
+  "new_text": "축하해"
+ },
+ {
+  "offset": 1710,
+  "old_encoding": "ascii",
+  "old_length_field": 46,
+  "old_text": "Cael, congratulations.\nCongratulations, Cael.",
+  "new_text": "케알, 축하해\n축하한다, 케알"
+ },
+ {
+  "offset": 1800,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "Congratulations!",
+  "new_text": "축하해"
+ },
+ {
+  "offset": 1861,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Hahahaha!",
+  "new_text": "하하하하!"
+ },
+ {
+  "offset": 1947,
+  "old_encoding": "ascii",
+  "old_length_field": 36,
+  "old_text": "Your bride is waiting. Go on, then.",
+  "new_text": "신부님이 기다리고 계신다. 얼른 가보라고"
+ },
+ {
+  "offset": 2029,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Right, right.",
+  "new_text": "맞아, 맞아"
+ },
+ {
+  "offset": 2099,
+  "old_encoding": "ascii",
+  "old_length_field": 34,
+  "old_text": "Animation Director\nYoshitaka Maki",
+  "new_text": "작화 감독\n마키 요시나오"
+ },
+ {
+  "offset": 2165,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 2192,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Claire!",
+  "new_text": "클레아!"
+ },
+ {
+  "offset": 2274,
+  "old_encoding": "ascii",
+  "old_length_field": 37,
+  "old_text": "Visual Programming\nHirokazu Iwatsuki",
+  "new_text": "비주얼 프로그램\n이와츠카 히로카즈"
+ },
+ {
+  "offset": 2347,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 2376,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Ah, Cael.",
+  "new_text": "앗, 케알"
+ },
+ {
+  "offset": 2418,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 2443,
+  "old_encoding": "ascii",
+  "old_length_field": 27,
+  "old_text": "Sorry to keep you waiting.",
+  "new_text": "많이 기다렸지?"
+ },
+ {
+  "offset": 2506,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 2547,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Oh, not at all.",
+  "new_text": "아니, 전혀 그렇지 않아"
+ },
+ {
+  "offset": 3093,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 3120,
+  "old_encoding": "ascii",
+  "old_length_field": 21,
+  "old_text": "Well then, let's go.",
+  "new_text": "자, 가자"
+ },
+ {
+  "offset": 3173,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 3194,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Okay.",
+  "new_text": "네"
+ },
+ {
+  "offset": 3396,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 3419,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Hahaha!",
+  "new_text": "하하하"
+ },
+ {
+  "offset": 3463,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 3510,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Hehe, hehehe!",
+  "new_text": "우후후훗, 우훗, 우후후훗"
+ },
+ {
+  "offset": 3560,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 3597,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Agh, g-gyaaa!",
+  "new_text": "윽, 끄악, 끄아악"
+ },
+ {
+  "offset": 3651,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 3688,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Ah, Cael!",
+  "new_text": "아앗, 케알!"
+ },
+ {
+  "offset": 3738,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 3765,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Claire!",
+  "new_text": "클레아!"
+ },
+ {
+  "offset": 3813,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 3834,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Agh!",
+  "new_text": "아앗"
+ },
+ {
+  "offset": 3879,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 3900,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Agh!",
+  "new_text": "아앗"
+ },
+ {
+  "offset": 3941,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 3980,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "Hmph, argh, what is that thing?",
+  "new_text": "윽, 제장, 대체 어떤 녀석이지"
+ },
+ {
+  "offset": 4048,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 4081,
+  "old_encoding": "ascii",
+  "old_length_field": 21,
+  "old_text": "It can't be stopped.",
+  "new_text": "전혀 견디지 못하고 있네"
+ },
+ {
+  "offset": 4142,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 4163,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Hhf!",
+  "new_text": "핫!"
+ },
+ {
+  "offset": 4202,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 4223,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Uuf!",
+  "new_text": "훗!"
+ },
+ {
+  "offset": 4266,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 4291,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Hyaa!",
+  "new_text": "테야앗!"
+ },
+ {
+  "offset": 4333,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 4354,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Zito!",
+  "new_text": "지토!"
+ },
+ {
+  "offset": 4396,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 4417,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Zito!",
+  "new_text": "지토!"
+ },
+ {
+  "offset": 4463,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 4496,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "You came!",
+  "new_text": "와주었구나!"
+ },
+ {
+  "offset": 4542,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Buzen",
+  "new_text": "부젠"
+ },
+ {
+  "offset": 4566,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Let's go!",
+  "new_text": "가자!"
+ },
+ {
+  "offset": 4612,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 4633,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Ah!",
+  "new_text": "그래!"
+ },
+ {
+  "offset": 4671,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 4692,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Oh!",
+  "new_text": "오우!"
+ },
+ {
+  "offset": 4732,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 4755,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Okay!",
+  "new_text": "네!"
+ },
+ {
+  "offset": 4801,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 4822,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Okay!",
+  "new_text": "네!"
+ },
+ {
+  "offset": 4864,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Buzen",
+  "new_text": "부젠"
+ },
+ {
+  "offset": 4896,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Hahahaha!",
+  "new_text": "하핫하핫하핫"
+ },
+ {
+  "offset": 4942,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 4967,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Hehehe!",
+  "new_text": "후후훗"
+ },
+ {
+  "offset": 5011,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 5034,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Hehehe!",
+  "new_text": "우후훗"
+ },
+ {
+  "offset": 5078,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Buzen",
+  "new_text": "부젠"
+ },
+ {
+  "offset": 5106,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Ah... Mmm.",
+  "new_text": "아~… 으으음"
+ },
+ {
+  "offset": 5153,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 5174,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Hehehe.",
+  "new_text": "후후후"
+ },
+ {
+  "offset": 5222,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Buzen",
+  "new_text": "부젠"
+ },
+ {
+  "offset": 5256,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "Fwahaha!\nHeheheh!",
+  "new_text": "후하하하\n후후후후"
+ },
+ {
+  "offset": 5310,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 5331,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Hhfa!",
+  "new_text": "핫"
+ },
+ {
+  "offset": 5373,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Buzen",
+  "new_text": "부젠"
+ },
+ {
+  "offset": 5393,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Ah!",
+  "new_text": "앗"
+ },
+ {
+  "offset": 5437,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 5456,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Ah!",
+  "new_text": "앗"
+ },
+ {
+  "offset": 5496,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 5517,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Hah!",
+  "new_text": "핫"
+ },
+ {
+  "offset": 5562,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 5581,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Ah!",
+  "new_text": "앗"
+ },
+ {
+  "offset": 5619,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 5646,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Oh... Ah!",
+  "new_text": "윽…… 앗"
+ },
+ {
+  "offset": 5696,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 5717,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Zito!",
+  "new_text": "지톳"
+ },
+ {
+  "offset": 5757,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 5782,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Oh...",
+  "new_text": "우오……"
+ },
+ {
+  "offset": 5826,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 5871,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "Agh... Ahh... Gyaa!",
+  "new_text": "아…… 아앗…… 으아아아악!"
+ },
+ {
+  "offset": 5925,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 5948,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Ghgya!",
+  "new_text": "쿠앗!"
+ },
+ {
+  "offset": 5995,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 6020,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Zito!",
+  "new_text": "지토-!"
+ },
+ {
+  "offset": 6060,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 6093,
+  "old_encoding": "ascii",
+  "old_length_field": 21,
+  "old_text": "Agh... Stay there...",
+  "new_text": "앗…… 오지 마……"
+ },
+ {
+  "offset": 6150,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 6181,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "It's going to collapse!",
+  "new_text": "바위가 무너질 거야!"
+ },
+ {
+  "offset": 6245,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 6266,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Zito!",
+  "new_text": "지토!"
+ },
+ {
+  "offset": 6312,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 6357,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "Zito's gonna die! Help! Quickly!",
+  "new_text": "지토가 죽어! 빨리 도와줘!"
+ },
+ {
+  "offset": 6428,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 6473,
+  "old_encoding": "ascii",
+  "old_length_field": 33,
+  "old_text": "Stop! Go on... Get outta here...",
+  "new_text": "오지 마! 빨리…… 빨리 가……!"
+ },
+ {
+  "offset": 6544,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 6577,
+  "old_encoding": "ascii",
+  "old_length_field": 12,
+  "old_text": "Oh... Oh...",
+  "new_text": "우앗…… 으으……"
+ },
+ {
+  "offset": 6627,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 6652,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Oh...",
+  "new_text": "우오아……"
+ },
+ {
+  "offset": 6692,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 6715,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Hhha...",
+  "new_text": "하아……"
+ },
+ {
+  "offset": 6757,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 6780,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Uugh...",
+  "new_text": "으으……"
+ },
+ {
+  "offset": 6828,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 6853,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Zito!",
+  "new_text": "지토-!"
+ },
+ {
+  "offset": 6899,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 6924,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Aaahhh!",
+  "new_text": "아아아아!"
+ },
+ {
+  "offset": 6972,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 6997,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Aaahhh!",
+  "new_text": "아아아아!"
+ },
+ {
+  "offset": 7045,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 7087,
+  "old_encoding": "ascii",
+  "old_length_field": 32,
+  "old_text": "I've been watching you closely.",
+  "new_text": "계속 당신을 지켜보고 있었습니다"
+ },
+ {
+  "offset": 7159,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 7181,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Claire.",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 7229,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 7271,
+  "old_encoding": "ascii",
+  "old_length_field": 38,
+  "old_text": "Now, let me get a closer look at you.",
+  "new_text": "자, 얼굴을 좀 더 자세히 보여주세요"
+ },
+ {
+  "offset": 7349,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 7372,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Heheh!",
+  "new_text": "우훗"
+ },
+ {
+  "offset": 7419,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 7519,
+  "old_encoding": "ascii",
+  "old_length_field": 110,
+  "old_text": "If High King Lucifer has been resurrected, only those with \nroyal blood from the Heavenly Realm can stop him.",
+  "new_text": "패왕 루키펠이 부활했다면, 그것을 막을 수 있는 자는\n천상계 왕가의 혈통뿐입니다"
+ },
+ {
+  "offset": 7665,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 7723,
+  "old_encoding": "ascii",
+  "old_length_field": 42,
+  "old_text": "Earth belongs to the people living there.",
+  "new_text": "지상은 그곳에서 살아가는 인간들의 것입니다"
+ },
+ {
+  "offset": 7805,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 7883,
+  "old_encoding": "ascii",
+  "old_length_field": 76,
+  "old_text": "Those of us from the Heavenly Realm and Hell below must not \nthreaten them.",
+  "new_text": "우리 천상계의 백성이나 지저계의 백성이\n그것을 위협해서는 안 됩니다"
+ },
+ {
+  "offset": 7995,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 8031,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "You understand, Claire?",
+  "new_text": "이해하시겠지요, 클레아"
+ },
+ {
+  "offset": 8095,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 8116,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Yes.",
+  "new_text": "네"
+ },
+ {
+  "offset": 8161,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 8183,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Here.",
+  "new_text": "이것을"
+ },
+ {
+  "offset": 8225,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 8260,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "What's... this?",
+  "new_text": "아…… 이것은……?"
+ },
+ {
+  "offset": 8316,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 8348,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "The Tear of the Angel.",
+  "new_text": "『천사의 눈물』입니다"
+ },
+ {
+  "offset": 8411,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 8505,
+  "old_encoding": "ascii",
+  "old_length_field": 108,
+  "old_text": "Long ago, when your father battled Lucifer, he brought \nan end to the conflict using the power of this gem.",
+  "new_text": "옛날에 당신의 아버님이 루키펠과 싸우셨을 때,\n이 보석의 힘으로 분쟁을 종결시키셨지요"
+ },
+ {
+  "offset": 8653,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 8731,
+  "old_encoding": "ascii",
+  "old_length_field": 64,
+  "old_text": "Now, it's your turn to defeat Lucifer in place of your \nfather.",
+  "new_text": "이번에는 당신이 아버님을 대신해 루키펠을 쓰러뜨려야 합니다"
+ },
+ {
+  "offset": 8835,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 8891,
+  "old_encoding": "ascii",
+  "old_length_field": 53,
+  "old_text": "This is your duty as Princess of the Heavenly Realm.",
+  "new_text": "이것은 천상계의 공주인 당신의 의무입니다"
+ },
+ {
+  "offset": 8984,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 9011,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Ah...",
+  "new_text": "아아……"
+ },
+ {
+  "offset": 9057,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 9131,
+  "old_encoding": "ascii",
+  "old_length_field": 53,
+  "old_text": "Now Claire, you must go to the wildlands of Lochran.",
+  "new_text": "잘 들으세요, 클레아. 거친 파도의 대륙 『로클로란』으로 가십시오"
+ },
+ {
+  "offset": 9224,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 9278,
+  "old_encoding": "ascii",
+  "old_length_field": 48,
+  "old_text": "High King Lucifer should be in the Dark Temple.",
+  "new_text": "패왕 루키펠은 어둠의 신전에 있을 것입니다"
+ },
+ {
+  "offset": 9366,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 9418,
+  "old_encoding": "ascii",
+  "old_length_field": 43,
+  "old_text": "This task will take everything you've got.",
+  "new_text": "그리고 당신이 느끼는 그대로 도전하는 것입니다"
+ },
+ {
+  "offset": 9501,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 9522,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Ack!",
+  "new_text": "쿠우웃"
+ },
+ {
+  "offset": 9567,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 9600,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Waahhh!",
+  "new_text": "으아아아아아아!"
+ },
+ {
+  "offset": 9648,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Buzen",
+  "new_text": "부젠"
+ },
+ {
+  "offset": 9686,
+  "old_encoding": "ascii",
+  "old_length_field": 41,
+  "old_text": "He's getting away! Quickly, seal it off!",
+  "new_text": "도망쳤다! 빨리 봉인을!"
+ },
+ {
+  "offset": 9767,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 9808,
+  "old_encoding": "ascii",
+  "old_length_field": 43,
+  "old_text": "Quickly! The demon will come back to life!",
+  "new_text": "빨리! 마물들이 되살아나고 말아!"
+ },
+ {
+  "offset": 9891,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 9914,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Agh!",
+  "new_text": "아앗"
+ },
+ {
+  "offset": 9959,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 9994,
+  "old_encoding": "ascii",
+  "old_length_field": 21,
+  "old_text": "Claire! What is it?!",
+  "new_text": "왜 그래?! 클레아"
+ },
+ {
+  "offset": 10055,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10078,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Uuf...",
+  "new_text": "윽……"
+ },
+ {
+  "offset": 10125,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 10150,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Ugh...",
+  "new_text": "윽……"
+ },
+ {
+  "offset": 10197,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10220,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Agh...",
+  "new_text": "아아……"
+ },
+ {
+  "offset": 10263,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 10298,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "Ah... Goodbye.",
+  "new_text": "아아…… 안녕"
+ },
+ {
+  "offset": 10349,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10384,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "G-goodbye?",
+  "new_text": "아, 안녕이라니?"
+ },
+ {
+  "offset": 10435,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 10470,
+  "old_encoding": "ascii",
+  "old_length_field": 16,
+  "old_text": "Hhf.... Hhfa...",
+  "new_text": "윽…… 하아……"
+ },
+ {
+  "offset": 10522,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10561,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "Claire! What's wrong?!",
+  "new_text": "클레아! 어떻게 된 거야?!"
+ },
+ {
+  "offset": 10624,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10647,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Hwa!",
+  "new_text": "우왓!"
+ },
+ {
+  "offset": 10692,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 10717,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Hha!",
+  "new_text": "하앗!"
+ },
+ {
+  "offset": 10762,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10781,
+  "old_encoding": "ascii",
+  "old_length_field": 4,
+  "old_text": "Ah!",
+  "new_text": "앗"
+ },
+ {
+  "offset": 10843,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "AHHHH!!!",
+  "new_text": "아아아아아아아아"
+ },
+ {
+  "offset": 10892,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 10919,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Claire!",
+  "new_text": "클레아!"
+ },
+ {
+  "offset": 10967,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Buzen",
+  "new_text": "부젠"
+ },
+ {
+  "offset": 11033,
+  "old_encoding": "ascii",
+  "old_length_field": 48,
+  "old_text": "The path to Hell is closed. The world is saved.",
+  "new_text": "이것으로 지저계로 가는 길은 닫혔다. 세계는 구원받은 것이다"
+ },
+ {
+  "offset": 11121,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 11146,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Ahh...",
+  "new_text": "아앗……"
+ },
+ {
+  "offset": 11193,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 11218,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "Claire...",
+  "new_text": "클레아……"
+ },
+ {
+  "offset": 11268,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 11289,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Mh...",
+  "new_text": "으……"
+ },
+ {
+  "offset": 11347,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Eheheh.",
+  "new_text": "우후후후후"
+ },
+ {
+  "offset": 11403,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Heheh.",
+  "new_text": "우훗"
+ },
+ {
+  "offset": 11450,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 11542,
+  "old_encoding": "ascii",
+  "old_length_field": 111,
+  "old_text": "Young boy. Do not be sad. Her mission on Earth is complete.\nIt's time for her to return to the Heavenly Realm.",
+  "new_text": "청년이여, 슬퍼하지 마세요. 딸은 지상에서의 사명을 다하고\n하늘로 돌아갈 때가 된 것입니다"
+ },
+ {
+  "offset": 11693,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 11724,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Hhf.... Ah...",
+  "new_text": "아…… 아아……"
+ },
+ {
+  "offset": 11774,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 11797,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Mother.",
+  "new_text": "어머니"
+ },
+ {
+  "offset": 11845,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Maria",
+  "new_text": "마리아"
+ },
+ {
+  "offset": 11909,
+  "old_encoding": "ascii",
+  "old_length_field": 53,
+  "old_text": "You did well, Claire. Well, I guess this is goodbye.",
+  "new_text": "잘 해주었구나, 클레아. 자, 이제 이별의 시간이다"
+ },
+ {
+  "offset": 12002,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 12023,
+  "old_encoding": "ascii",
+  "old_length_field": 8,
+  "old_text": "Claire.",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 12071,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 12098,
+  "old_encoding": "ascii",
+  "old_length_field": 10,
+  "old_text": "C-Claire!",
+  "new_text": "클, 클레아!"
+ },
+ {
+  "offset": 12148,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Enya",
+  "new_text": "엔야"
+ },
+ {
+  "offset": 12169,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Cael.",
+  "new_text": "케알"
+ },
+ {
+  "offset": 12259,
+  "old_encoding": "ascii",
+  "old_length_field": 74,
+  "old_text": "Planning\nKenichi Nishi\nPlanning Assistance\nAkifumi Kaneko\nTetsuro Shibata",
+  "new_text": "기획 니시 켄이치\n기획 보조\n카네코 아키후미\n시바타 테츠로"
+ },
+ {
+  "offset": 12481,
+  "old_encoding": "ascii",
+  "old_length_field": 109,
+  "old_text": "System Programming\nCombat Programming\nHironori Ahiko\nEvent Programming\nGambling Programming\nKatsunori Sasaki",
+  "new_text": "시스템 프로그램\n전투 프로그램\n아히코 히로노리\n이벤트 매크로 프로그램\n도박장 프로그램\n사사키 카츠노리"
+ },
+ {
+  "offset": 12722,
+  "old_encoding": "utf16",
+  "old_length_field": -90,
+  "old_text": "Visual Programming\nHirokazu Iwatsuki\nMusic Programming ＆\nSpecial Thanks\nMasayasu Yamamoto",
+  "new_text": "비주얼 프로그램\n이와츠카 히로카즈\n음악 프로그램 &\nSpecial Thanks\n야마모토 마사야스"
+ },
+ {
+  "offset": 13064,
+  "old_encoding": "ascii",
+  "old_length_field": 73,
+  "old_text": "Field Graphics\nMonster Graphics\nKiyofumi Kato\nTown Graphics\nTakeshi Yabe",
+  "new_text": "필드 그래픽\n몬스터 그래픽\n카토 키요후미\n마을 그래픽\n야베 켄지\n던전 그래픽\n사쿠라다 이쿠이"
+ },
+ {
+  "offset": 13211,
+  "old_encoding": "ascii",
+  "old_length_field": 35,
+  "old_text": "Dungeon Graphics\nYasuyori Sakurada",
+  "new_text": "던전 그래픽\n사쿠라다 이쿠이"
+ },
+ {
+  "offset": 13360,
+  "old_encoding": "ascii",
+  "old_length_field": 93,
+  "old_text": "Visual Graphics\nYasuyori Sakurada\nYoshitaka Maki\nAkihisa Watanabe\nKiyofumi Kato\nTakeshi Yabe",
+  "new_text": "비주얼 그래픽\n사쿠라다 이쿠이\n마키 요시나오\n와타나베 아키히사\n카토 키요후미\n야베 켄지"
+ },
+ {
+  "offset": 13521,
+  "old_encoding": "ascii",
+  "old_length_field": 35,
+  "old_text": "Music\nShinobu Ogawa\nMichiko Naruke",
+  "new_text": "음악\n오가와 후미오\n나리모 미치코"
+ },
+ {
+  "offset": 13642,
+  "old_encoding": "ascii",
+  "old_length_field": 40,
+  "old_text": "Character& \nMonster Design\nHiroshi Fuji",
+  "new_text": "캐릭터 & 몬스터 디자인\n후지 히로시"
+ },
+ {
+  "offset": 13794,
+  "old_encoding": "ascii",
+  "old_length_field": 64,
+  "old_text": "Cast\nKazuhiko Inoue\nHiroko Emori\nGara Takashima\nHideyuki Tanaka",
+  "new_text": "캐스트\n이노우에 카즈히코\n에모리 히로코\n타카시마 마사라\n타나카 히데유키\n오기모리 준코\n미야우치 코헤이"
+ },
+ {
+  "offset": 13918,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Junko Hagimori\nKohei Miyauchi",
+  "new_text": "오기모리 준코\n미야우치 코헤이"
+ },
+ {
+  "offset": 14046,
+  "old_encoding": "ascii",
+  "old_length_field": 79,
+  "old_text": "Marketing\nTomoko Miura\nTakao Yoshioka\nKatsuhisa Ono\nYuma Miura\nAyako Shiraishi",
+  "new_text": "홍보 기획\n미우라 토모코\n요시오카 타카오\n오노 카츠히사\n미우라 유마\n시라이시 후미코"
+ },
+ {
+  "offset": 14241,
+  "old_encoding": "ascii",
+  "old_length_field": 65,
+  "old_text": "Artwork\nAD Factory Co., Ltd.\nA1 Ad Co., Ltd.\nMediaplus Co., Ltd.",
+  "new_text": "아트워크\n(주)AD 팩터\n(주)에이원 애드\n(주)미디어 플러스"
+ },
+ {
+  "offset": 14398,
+  "old_encoding": "ascii",
+  "old_length_field": 64,
+  "old_text": "Visual Audio Production\nBusiness Support Co., Ltd.\nMinoru Yuasa",
+  "new_text": "비주얼 음향 제작\n(주)비즈니스 서포트\n유아사 미노루"
+ },
+ {
+  "offset": 14546,
+  "old_encoding": "ascii",
+  "old_length_field": 58,
+  "old_text": "Key Frames\nTakamitsu Kondo\nYutaka Sakamoto\nYoshitaka Maki",
+  "new_text": "비주얼 원화\n콘도 타카미츠\n사카모토 유타카\n마키 요시나오"
+ },
+ {
+  "offset": 14688,
+  "old_encoding": "ascii",
+  "old_length_field": 58,
+  "old_text": "Cutscenes\nToshimasa Kuwabara\nYoko Sugawa\nHiroshi Nagahama",
+  "new_text": "비주얼 동화\n쿠와하라 토시마사\n스카와 요코\n나가하마 히로시"
+ },
+ {
+  "offset": 14832,
+  "old_encoding": "ascii",
+  "old_length_field": 57,
+  "old_text": "Cel Completion\nStudio CAT\nAkira Mizusawa\nTetsuya Shimizu",
+  "new_text": "셀 마무리\n스튜디오 CAT\n미즈사와 아키라\n시미즈 테츠야"
+ },
+ {
+  "offset": 14995,
+  "old_encoding": "ascii",
+  "old_length_field": 69,
+  "old_text": "Partners\nKenichi Toyoda\nJun Kamiya\nAoni Pro Co., Ltd.\nISCO Co., Ltd.",
+  "new_text": "협력\n토요다 켄이치\n카미야 준\n(주)아오니 프로덕션\n(주)ISCO"
+ },
+ {
+  "offset": 15150,
+  "old_encoding": "ascii",
+  "old_length_field": 48,
+  "old_text": "Opening\n& Ending Arrangement\nNobuhiko Kashiwara",
+  "new_text": "오프닝 & 엔딩 편곡\n카시하라 노부히코"
+ },
+ {
+  "offset": 15260,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "Scat Singing\nKaori Kita",
+  "new_text": "스캣\n키타 카오리"
+ },
+ {
+  "offset": 15346,
+  "old_encoding": "ascii",
+  "old_length_field": 22,
+  "old_text": "Strings\nHijiri Kuwano",
+  "new_text": "스트링스\n쿠와노 히지리"
+ },
+ {
+  "offset": 15424,
+  "old_encoding": "ascii",
+  "old_length_field": 22,
+  "old_text": "Piano\nTakako Ishiguro",
+  "new_text": "피아노\n이시구로 타카코"
+ },
+ {
+  "offset": 15510,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "Operator\nSeiichi Takubo",
+  "new_text": "오퍼레이터\n타쿠보 세이이치"
+ },
+ {
+  "offset": 15630,
+  "old_encoding": "ascii",
+  "old_length_field": 73,
+  "old_text": "Game Testers\nJun Isobe\nAkira Enokido\nShunichi Komiyama\nTakahiro Kanamaru",
+  "new_text": "테스트 플레이\n이소베 준\n에노키도 아키라\n코미야마 슌이치\n카네마루 타카히로"
+ },
+ {
+  "offset": 15875,
+  "old_encoding": "ascii",
+  "old_length_field": 80,
+  "old_text": "<Recording>\nRecording\nLegato Music\nToshikatsu Iijima\nSeiichi Negi\nHisako Yamada",
+  "new_text": "<레코딩>\n레코딩\nLEGATO MUSIC\n이이지마 토시카츠\n네키 세이이치\n야마다 쿠니코\n와타나베 나오코\n(주)아오바다이 스튜디오\n이시마츠 켄이치"
+ },
+ {
+  "offset": 16035,
+  "old_encoding": "ascii",
+  "old_length_field": 58,
+  "old_text": "Naoko Watanabe\nAodabai Studio Co., Ltd.\nKenichi Ishimatsu",
+  "new_text": "와타나베 나오코\n(주)아오바다이 스튜디오\n이시마츠 켄이치"
+ },
+ {
+  "offset": 16183,
+  "old_encoding": "ascii",
+  "old_length_field": 50,
+  "old_text": "Coordination\nSotsu Agency Co., Ltd.\nKei Shimosaka",
+  "new_text": "코디네이트\n(주)소츠 에이전시\n시모사카 케이"
+ },
+ {
+  "offset": 16299,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Video Editing\nChamp Co., Ltd.",
+  "new_text": "비디오 편집\n(주)챔프"
+ },
+ {
+  "offset": 16439,
+  "old_encoding": "ascii",
+  "old_length_field": 99,
+  "old_text": "General Producers\nJiro Fukushima\nKazuyuki Fukushima\nYuji Fukushima\nTakashi Fukushima\nYoshinobu Abe",
+  "new_text": "제너럴 프로듀스\n후쿠시마 지로\n후쿠시마 카즈유키\n후쿠시마 유지\n후쿠시마 타카시\n아베 요시노부"
+ },
+ {
+  "offset": 16600,
+  "old_encoding": "ascii",
+  "old_length_field": 21,
+  "old_text": "Producer\nFumio Ogawa",
+  "new_text": "프로듀스\n오가와 후미오"
+ },
+ {
+  "offset": 17034,
+  "old_encoding": "ascii",
+  "old_length_field": 58,
+  "old_text": "Hello. How did your play through of Song of the Angel go?",
+  "new_text": "안녕하세요. 『천사의 시』 게임의 성적은 어땠나요? 제 얼굴이 나왔다는 건 꽤 좋은 성적이라는 뜻이겠죠? 후훗. 자, 저는 누구일까요? 나이 불명의 마리아 역을 맡은 타카시마 마사라입니다."
+ },
+ {
+  "offset": 17138,
+  "old_encoding": "ascii",
+  "old_length_field": 74,
+  "old_text": "I imagine it must've gone pretty well considering you've found \nme here. ",
+  "new_text": "타카시마 마사라"
+ },
+ {
+  "offset": 17262,
+  "old_encoding": "ascii",
+  "old_length_field": 88,
+  "old_text": "Well then, just who am I? \nI'm Gara Takashima, age unknown. I played the part of Maria.",
+  "new_text": "타카시마 마사라"
+ },
+ {
+  "offset": 17600,
+  "old_encoding": "ascii",
+  "old_length_field": 47,
+  "old_text": "I'm Kazuhiko Inoue. I played the part of Cael.",
+  "new_text": "케알 역을 맡은 이노우에 카즈히코입니다. 이야, 여기까지 잘 왔네! 응, 정말 대단해. 장해! 그럼 여기서 제가 포상으로 \"샹샹샹 샹샹샹 샹샹샹샹! 축하해!\""
+ },
+ {
+  "offset": 17693,
+  "old_encoding": "ascii",
+  "old_length_field": 71,
+  "old_text": "You've done a great job making it this far. \nWhat a fantastic player! ",
+  "new_text": "이노우에 카즈히코"
+ },
+ {
+  "offset": 17814,
+  "old_encoding": "ascii",
+  "old_length_field": 112,
+  "old_text": "As a reward, allow me to say this: \n\"shan shan shan shan shan shan shan shan shan shan shan! \nCongratulations!\"",
+  "new_text": "이노우에 카즈히코"
+ },
+ {
+  "offset": 18178,
+  "old_encoding": "ascii",
+  "old_length_field": 45,
+  "old_text": "Hello. I am Hideyuki Tanaka. I voiced Zito. ",
+  "new_text": "안녕하세요. 지토의 목소리를 맡은 타나카 히데유키입니다. 그렇다고 해도 이 이야기 속에서 지토의 대사가 적어서 좀 아쉽지만, 저도 RPG를 정말 좋아해서 이 게임에 도전해 보려고 합니다."
+ },
+ {
+  "offset": 18273,
+  "old_encoding": "ascii",
+  "old_length_field": 141,
+  "old_text": "I was a little sad that Zito didn't have many lines in this \nstory, but I do love role-playing games, \nso I wanted to give this game my all.",
+  "new_text": "타나카 히데유키"
+ },
+ {
+  "offset": 18622,
+  "old_encoding": "ascii",
+  "old_length_field": 132,
+  "old_text": "You must've worked hard to make it to the end of Song of the Angel. \nI'm Hiroko Emori. I played the part of Claire. So how was it? ",
+  "new_text": "이 『천사의 시』 게임을 끝까지 열심히 해낸 당신, 수고 많았어요! 클레아 역의 에모리 히로코입니다. 어때요? 즐거웠나요? 하지만 게임이 끝난 후에는 공부도 열심히 해야 해요. 그럼, 또 봐요!"
+ },
+ {
+  "offset": 18804,
+  "old_encoding": "ascii",
+  "old_length_field": 89,
+  "old_text": "Did you have fun? Anyways, make sure to study hard now that the \ngame's over. Okay, bye!",
+  "new_text": "에모리 히로코"
+ },
+ {
+  "offset": 18965,
+  "old_encoding": "ascii",
+  "old_length_field": 51,
+  "old_text": "I am Junko Hagimori, who played the part of Enya. ",
+  "new_text": "엔야 역의 오기모리 준코입니다."
+ },
+ {
+  "offset": 19252,
+  "old_encoding": "ascii",
+  "old_length_field": 158,
+  "old_text": "Enya is a cute, energetic girl. \nI hope I was able to show that part of her character. \nWhat did you think? Anyways, congratulations on completing the \ngame!",
+  "new_text": "이 『엔야』라는 캐릭터는 귀엽고 활기찬 소녀인데, 그런 면이 잘 드러났다면 기쁘겠네요. 어땠나요? 아무튼 게임 클리어 축하드립니다!"
+ },
+ {
+  "offset": 20036,
+  "old_encoding": "ascii",
+  "old_length_field": 260,
+  "old_text": "Hey there. Hi. Do you recognize my voice? Anyone know who I am? \nWell, I do a lot of voice work, but not many people can recognize \nmy face. \nLots of people know my name without knowing my face. \nI am Kohei Miyauchi, who played the role of Buzen in the game. ",
+  "new_text": "아아, 안녕하세요. 아아, 안녕하세요. 제 목소리 알아보시겠나요? 아는 분이 계실까요? 저기, 저희는 평소에 목소리 일만 하다 보니 얼굴을 아는 분은 적을 거예요. 이름은 알지만 얼굴은 잘 모르는 분들이 많죠. 저는 이 『천사의 시』 게임에서 부젠이라는 역을 맡은 미야우치 코헤이입니다. 아시려나? 『하이디』의 할아버지, 『이큐상』의 스님. 네, 목소리는 아시겠네요. 여러분 나이에 비하면 훨씬 많지만, 이 일은 정말 재미있어서 즐겁게 하고 있답니다. 여러분도 하고 싶다면 열심히 공부해서 성우가 될 수 있을 거예요. 그럼 안녕."
+ },
+ {
+  "offset": 20346,
+  "old_encoding": "ascii",
+  "old_length_field": 303,
+  "old_text": "Maybe you know me as the grandpa in the game Heidi, \nor as Osho in the TV show Ikkyu-san. Yep, that's my voice. \nI'm a lot older than all of you. But this job is very \ninteresting and I like it very much. If you want to \nbecome a voice actor, make sure to study really \nhard and you can do it. Goodbye.",
+  "new_text": "미야우치 코헤이"
+ },
+ {
+  "offset": 20705,
+  "old_encoding": "ascii",
+  "old_length_field": 31,
+  "old_text": "(Sound of a telephone ringing)",
+  "new_text": "(전화 신호음)"
+ },
+ {
+  "offset": 21010,
+  "old_encoding": "ascii",
+  "old_length_field": 152,
+  "old_text": "Hello. Testing, testing, testing. \nToday is a sunny day. Today is a sunny day. This is Hiroshi Fuji. \nHi. Um, this is character designer Hiroshi Fuji. ",
+  "new_text": "여보세요. 테스트, 테스트, 테스트. 오늘은 쾌청함. 오늘은 쾌청함. 제가 후지 히로시입니다. 안녕하세요. 캐릭터 디자인을 맡은 후지 히로시입니다. 음~ 평소와는 다른 멤버들과 일해보니 꽤 즐거웠습니다. 이상입니다."
+ },
+ {
+  "offset": 21503,
+  "old_encoding": "ascii",
+  "old_length_field": 37,
+  "old_text": "Hello, this is Nishi, lead planner. ",
+  "new_text": "안녕하세요, 기획의 니시입니다. 『천사의 시』 즐겁게 플레이하셨나요? 평판이 좋으면 『천사의 시 II』라는 이야기도 나오고 있으니, 음~ 감상 같은 걸 팍팍 보내주세요. 감사합니다~."
+ },
+ {
+  "offset": 21590,
+  "old_encoding": "ascii",
+  "old_length_field": 146,
+  "old_text": "Did you enjoy Song of the Angel? \nIf this one is well received, we're thinking of making a sequel, \num, so please share your feedback. Thank you.",
+  "new_text": "니시 켄이치"
+ },
+ {
+  "offset": 21846,
+  "old_encoding": "ascii",
+  "old_length_field": 79,
+  "old_text": "Song of the Angel\nBonus Content\nOriginal Mini Drama\nIf the World Were Peaceful",
+  "new_text": "천사의 시\n~번외편~\n오리지널 미니 드라마\n만약 평화로운 세계였다면"
+ },
+ {
+  "offset": 22109,
+  "old_encoding": "utf16",
+  "old_length_field": -189,
+  "old_text": "Once upon a time, there lived a married couple\nin a peaceful village. They fell in love in a normal \nway and had a normal wedding. However, one thing \nwas not normal—the wife was an angel.",
+  "new_text": "옛날 옛적, 어느 평화로운 마을에 한 부부가 살았다고 합니다\n두 사람은 아주 평범한 사랑을 했고, 평범하게 결혼했습니다\n단 하나 달랐던 점은, 아내가 천사였다는 것입니다"
+ },
+ {
+  "offset": 22523,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 22574,
+  "old_encoding": "ascii",
+  "old_length_field": 34,
+  "old_text": "Cael. Ugh, wake up. It's morning.",
+  "new_text": "케알. 정말, 케알 일어나. 아침이야."
+ },
+ {
+  "offset": 22644,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 22725,
+  "old_encoding": "ascii",
+  "old_length_field": 72,
+  "old_text": "U-ughhh... I had another late one last night. Let\nme sleep in a little.",
+  "new_text": "으, 으음.\n조금만 더 자게 해줘.\n어제도 늦게 잤잖아."
+ },
+ {
+  "offset": 22833,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 22888,
+  "old_encoding": "ascii",
+  "old_length_field": 68,
+  "old_text": "I won't have any of that. You need to get out into the\nfields, now.",
+  "new_text": "그런 소리 하지 말고. 빨리 밭에 가지 않으면."
+ },
+ {
+  "offset": 22992,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 23023,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "Mmph... Just a bit longer...",
+  "new_text": "으음… 조금만 더"
+ },
+ {
+  "offset": 23088,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 23147,
+  "old_encoding": "ascii",
+  "old_length_field": 75,
+  "old_text": "Are you listening to me?! You better get up now\nor else, you useless lout!",
+  "new_text": "이봐, 이봐, 이봐! 빨리 안 일어나?! 이 식충아!"
+ },
+ {
+  "offset": 23258,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 23333,
+  "old_encoding": "ascii",
+  "old_length_field": 49,
+  "old_text": "Huh? Uh, Claire, calm down. I'm up, I'm up. Yup!",
+  "new_text": "아, 아, 클레아. 그렇게 화내지 마.\n지금 일어날게요. 네."
+ },
+ {
+  "offset": 23418,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 23459,
+  "old_encoding": "ascii",
+  "old_length_field": 41,
+  "old_text": "Hurry up and go plow the fields already!",
+  "new_text": "빨리 밭! 갈고 오세요!"
+ },
+ {
+  "offset": 23540,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 23593,
+  "old_encoding": "ascii",
+  "old_length_field": 36,
+  "old_text": "O-Oh, but, uh, errr... Breakfast...",
+  "new_text": "아, 아우, 저, 저기. 아침밥은…"
+ },
+ {
+  "offset": 23665,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 23710,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "Urk! Gah! F-forgive me.",
+  "new_text": "느아-앗, 쿠큿. 아, 용서해줘."
+ },
+ {
+  "offset": 23774,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 23815,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "ELBOW SMAAASH!",
+  "new_text": "엘보 스매시!!"
+ },
+ {
+  "offset": 23866,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 23887,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Gurgh!",
+  "new_text": "구옷"
+ },
+ {
+  "offset": 23934,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 23995,
+  "old_encoding": "ascii",
+  "old_length_field": 80,
+  "old_text": "You've got some nerve asking for that when you can't even\nearn a decent living!",
+  "new_text": "남들만큼 벌지도 못하면서. 잘도 그런 말이 나오네"
+ },
+ {
+  "offset": 24115,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 24158,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "GUWAARGH! Ow! Ahhh!",
+  "new_text": "구오와악, 아야, 아아-앗"
+ },
+ {
+  "offset": 24238,
+  "old_encoding": "utf16",
+  "old_length_field": -28,
+  "old_text": "Gotta tend to those fields—",
+  "new_text": "역시 밭의 거름은"
+ },
+ {
+  "offset": 24356,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "Cael sure has it rough.",
+  "new_text": "케알, 매일 고생이 많구만-"
+ },
+ {
+  "offset": 24460,
+  "old_encoding": "ascii",
+  "old_length_field": 49,
+  "old_text": "Hehehe, with that missus of his and all! Bahaha!",
+  "new_text": "헤헤헤, 저 마누라라면 말이지. 하하헤헤"
+ },
+ {
+  "offset": 24549,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 24696,
+  "old_encoding": "ascii",
+  "old_length_field": 145,
+  "old_text": "Damn it! She was such a cutie before we got married. \nNow she just nags me about money, money, money while \nshe sits back and gets fat. Why me?!",
+  "new_text": "제장, 결혼 전에는 그렇게 귀여웠는데.\n지금은 돈, 돈 거리면서 자기만 편하게 먹고 살찌고.\n왜 내가 이런 꼴을 당해야 하는 거야!"
+ },
+ {
+  "offset": 24877,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 24914,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Hrnngh! Argh!",
+  "new_text": "흥!\n아아-앗!!"
+ },
+ {
+  "offset": 24974,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Perfect.",
+  "new_text": "완벽해"
+ },
+ {
+  "offset": 25023,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 25104,
+  "old_encoding": "ascii",
+  "old_length_field": 81,
+  "old_text": "My hoe snapped... Aww man, now what do I do? Claire's\ngoing to wail on me again.",
+  "new_text": "괭이가 부러져 버렸…\n아아, 어, 어떡하지\n또 클레아한테 맞겠어"
+ },
+ {
+  "offset": 25267,
+  "old_encoding": "ascii",
+  "old_length_field": 76,
+  "old_text": "Meanwhile, Zito, whose had no path as a swordsman\nin this peaceful world...",
+  "new_text": "그 무렵, 평화로운 세상에 검사의 길을 잃어버린 지토는"
+ },
+ {
+  "offset": 25377,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 25468,
+  "old_encoding": "ascii",
+  "old_length_field": 67,
+  "old_text": "Ergh...argghh...blerrggh...! Hey! Sarah! Booze! Bring me\nmy booze!",
+  "new_text": "윽… 아으아… 윽윽후아-…… 어이! 사라!\n술이다 술! 술 가져오지 못해!"
+ },
+ {
+  "offset": 25569,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Sarah",
+  "new_text": "사라"
+ },
+ {
+  "offset": 25639,
+  "old_encoding": "ascii",
+  "old_length_field": 66,
+  "old_text": "*Cough* *Splutter* Honestly, would it hurt you to work \na little?",
+  "new_text": "영차 영차 영차… 당신… 조금은 일 좀 하세요"
+ },
+ {
+  "offset": 25745,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 25780,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Tch, shut it!",
+  "new_text": "쳇, 시끄러워!!"
+ },
+ {
+  "offset": 25848,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Wahhhhh!",
+  "new_text": "으아앙 (울음소리)"
+ },
+ {
+  "offset": 25891,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 25950,
+  "old_encoding": "ascii",
+  "old_length_field": 68,
+  "old_text": "I'm a warrior, damn it! You expect me to slave away in\nthe fields?!",
+  "new_text": "난 검사라고\n내가 괭이 들고 밭 따위를 갈 수 있겠냐!"
+ },
+ {
+  "offset": 26056,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Sarah",
+  "new_text": "사라"
+ },
+ {
+  "offset": 26082,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Ahhh!",
+  "new_text": "아하하우"
+ },
+ {
+  "offset": 26122,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 26197,
+  "old_encoding": "ascii",
+  "old_length_field": 60,
+  "old_text": "Urgggh... I...*Hic*... will only ever...\nlive by the sword!",
+  "new_text": "우이-하… 난… 히끅… 으아앗… 검에 인생을 거는 것 외엔… 없어!"
+ },
+ {
+  "offset": 26295,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Sarah",
+  "new_text": "사라"
+ },
+ {
+  "offset": 26381,
+  "old_encoding": "utf16",
+  "old_length_field": -71,
+  "old_text": "But, darling! Look at our children! They're so gaunt and\ntire— *cough*",
+  "new_text": "하지만 당신! 아이들을 좀 봐주세요! 이렇게 야위어서… 엣에호에호"
+ },
+ {
+  "offset": 26557,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 26618,
+  "old_encoding": "ascii",
+  "old_length_field": 68,
+  "old_text": "You want something to blame? Then blame these peaceful\ntimes! *Hic*",
+  "new_text": "원망하려면… 이 평화로운 시대를 원망해! 히끅… 으으"
+ },
+ {
+  "offset": 26742,
+  "old_encoding": "ascii",
+  "old_length_field": 9,
+  "old_text": "Wahhhhh!",
+  "new_text": "으아-하아-아아아"
+ },
+ {
+  "offset": 26785,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 26826,
+  "old_encoding": "ascii",
+  "old_length_field": 41,
+  "old_text": "Argh! Shut your trap! Where's my booze?!",
+  "new_text": "으아-! 시끄러워! 술 가져와!"
+ },
+ {
+  "offset": 26905,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Sarah",
+  "new_text": "사라"
+ },
+ {
+  "offset": 26977,
+  "old_encoding": "ascii",
+  "old_length_field": 52,
+  "old_text": "*Cough* *cough* There's no food, let alone alcohol!",
+  "new_text": "콜록콜록, 당신, 이제 술은커녕 먹을 것도 없다고요"
+ },
+ {
+  "offset": 27087,
+  "old_encoding": "ascii",
+  "old_length_field": 17,
+  "old_text": "Mom, I'm hungry!",
+  "new_text": "엄마! 배고파!"
+ },
+ {
+  "offset": 27138,
+  "old_encoding": "ascii",
+  "old_length_field": 6,
+  "old_text": "Sarah",
+  "new_text": "사라"
+ },
+ {
+  "offset": 27230,
+  "old_encoding": "ascii",
+  "old_length_field": 80,
+  "old_text": "I'm sorry, be patient... *Cough* If only your\ndad would work. Isn't that right?",
+  "new_text": "미안해… 조금만 참으렴… 엣에호… 아빠가 일만 해줬어도\n저기요, 당신"
+ },
+ {
+  "offset": 27344,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Zito",
+  "new_text": "지토"
+ },
+ {
+  "offset": 27373,
+  "old_encoding": "ascii",
+  "old_length_field": 14,
+  "old_text": "Zzz... Zzz...",
+  "new_text": "구가- 윽구가-"
+ },
+ {
+  "offset": 27463,
+  "old_encoding": "ascii",
+  "old_length_field": 24,
+  "old_text": "I'm so hungry! Wahhh...",
+  "new_text": "배고파-! 우에엥, 으으으, 으으"
+ },
+ {
+  "offset": 27559,
+  "old_encoding": "ascii",
+  "old_length_field": 36,
+  "old_text": "That night, with Cael and Claire...",
+  "new_text": "그리고 그날 밤, 케알과 클레아는"
+ },
+ {
+  "offset": 27635,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 27672,
+  "old_encoding": "ascii",
+  "old_length_field": 22,
+  "old_text": "I-I-I'm home, Claire.",
+  "new_text": "다, 다, 다녀왔어 클레아"
+ },
+ {
+  "offset": 27730,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 27793,
+  "old_encoding": "ascii",
+  "old_length_field": 66,
+  "old_text": "What are you doing just standing there? Hurry up and get\ncooking.",
+  "new_text": "뭐 하고 멍하니 서 있어? 빨리 식사 준비 안 해?"
+ },
+ {
+  "offset": 27899,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 27940,
+  "old_encoding": "ascii",
+  "old_length_field": 29,
+  "old_text": "Oh, um, yes... r-right away.",
+  "new_text": "아, 아아, 지, 지금 할게"
+ },
+ {
+  "offset": 28005,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 28080,
+  "old_encoding": "ascii",
+  "old_length_field": 67,
+  "old_text": "You're acting strangely... Behind you! Show me what\nyou're hiding!",
+  "new_text": "뭔가 분위기가 이상한데\n그 뒤! 뒤에 숨기고 있는 거 내놔!"
+ },
+ {
+  "offset": 28183,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 28238,
+  "old_encoding": "ascii",
+  "old_length_field": 30,
+  "old_text": "Uh, it's, um... It's nothing!",
+  "new_text": "아, 아니, 이건 그… 아무것도 아니야!"
+ },
+ {
+  "offset": 28304,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 28341,
+  "old_encoding": "ascii",
+  "old_length_field": 20,
+  "old_text": "Show it to me! NOW!",
+  "new_text": "됐으니까 내놓으라고!"
+ },
+ {
+  "offset": 28401,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 28426,
+  "old_encoding": "ascii",
+  "old_length_field": 11,
+  "old_text": "Ack, here.",
+  "new_text": "에에, 네"
+ },
+ {
+  "offset": 28473,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 28502,
+  "old_encoding": "ascii",
+  "old_length_field": 13,
+  "old_text": "What's this?",
+  "new_text": "뭐야, 이건"
+ },
+ {
+  "offset": 28555,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 28606,
+  "old_encoding": "ascii",
+  "old_length_field": 23,
+  "old_text": "A-Ahahaha... It broke.",
+  "new_text": "아, 하하하핫, 하아… 부러졌어"
+ },
+ {
+  "offset": 28665,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 28702,
+  "old_encoding": "ascii",
+  "old_length_field": 15,
+  "old_text": "DROP KIIIIICK!",
+  "new_text": "드롭 킥!!"
+ },
+ {
+  "offset": 28753,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 28794,
+  "old_encoding": "ascii",
+  "old_length_field": 18,
+  "old_text": "Gahhh! I'm sowwy!",
+  "new_text": "우와아!\n미, 미안해"
+ },
+ {
+  "offset": 28848,
+  "old_encoding": "ascii",
+  "old_length_field": 7,
+  "old_text": "Claire",
+  "new_text": "클레아"
+ },
+ {
+  "offset": 28909,
+  "old_encoding": "ascii",
+  "old_length_field": 68,
+  "old_text": "You think I'd let you off that easily?! \nNo dinner for you tonight!",
+  "new_text": "그걸로 끝날 줄 알아-! 오늘 밤은 굶어!"
+ },
+ {
+  "offset": 29017,
+  "old_encoding": "ascii",
+  "old_length_field": 5,
+  "old_text": "Cael",
+  "new_text": "케알"
+ },
+ {
+  "offset": 29092,
+  "old_encoding": "ascii",
+  "old_length_field": 51,
+  "old_text": "Forgive me, honey!\nGah! I'm sorry!\nUrk! Ack! Argh!",
+  "new_text": "용서해줘 허니\n구와아, 미안해\n오와아! 구옷! 구왓!"
+ },
+ {
+  "offset": 29225,
+  "old_encoding": "ascii",
+  "old_length_field": 68,
+  "old_text": "And so their peaceful lives continued for years and \nyears to come.",
+  "new_text": "그리고 평화로운 나날이 몇 년이고 몇 년이고 계속되었다고 합니다"
+ },
+ {
+  "offset": 29355,
+  "old_encoding": "ascii",
+  "old_length_field": 37,
+  "old_text": "Cael's practically a side character.",
+  "new_text": "이제 케알 같은 건 조연이나 다름없네"
+ },
+ {
+  "offset": 29456,
+  "old_encoding": "ascii",
+  "old_length_field": 36,
+  "old_text": "He's being put through the wringer.",
+  "new_text": "정말 처참한 꼴이군요"
+ },
+ {
+  "offset": 1108,
+  "old_encoding": "utf16",
+  "old_length_field": -71,
+  "old_text": "Visual Design\nSupervising Director　\nYasuyori Sakurada\nAkihisa Watanabe",
+  "new_text": "비주얼 디자인\n감수\n사쿠라다 이쿠이\n와타나베 아키히사"
+ },
+ {
+  "offset": 2651,
+  "old_encoding": "utf16",
+  "old_length_field": -45,
+  "old_text": "Cast\nCael　Kazuhiko Inoue\nClaire　Hiroko Emori",
+  "new_text": "캐스트\n케알 이노우에 카즈히코\n클레아 에모리 히로코"
+ },
+ {
+  "offset": 2819,
+  "old_encoding": "utf16",
+  "old_length_field": -43,
+  "old_text": "Maria　Gara Takashima\nZito　　Hideyuki Tanaka",
+  "new_text": "마리아 타카시마 마사라\n지토 타나카 히데유키"
+ },
+ {
+  "offset": 2979,
+  "old_encoding": "utf16",
+  "old_length_field": -41,
+  "old_text": "Enya　Junko Hagimori\nBuzen　Kohei Miyauchi",
+  "new_text": "엔야 오기모리 준코\n부젠 미야우치 코헤이"
+ },
+ {
+  "offset": 3278,
+  "old_encoding": "utf16",
+  "old_length_field": -41,
+  "old_text": "Enya　Junko Hagimori\nBuzen　Kohei Miyauchi",
+  "new_text": "엔야 오기모리 준코\n부젠 미야우치 코헤이"
+ },
+ {
+  "offset": 21202,
+  "old_encoding": "ascii",
+  "old_length_field": 73,
+  "old_text": "Um, I really enjoyed working \nwith a new group for this one. That's all.",
+  "new_text": "후지 히로시"
+ }
+]

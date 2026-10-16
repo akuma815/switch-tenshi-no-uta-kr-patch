@@ -1,4 +1,5 @@
-﻿# ============================================================
+﻿param([string]$SourcePaks = '', [string]$RetocPath = '', [string]$RepakPath = '', [switch]$CurrentTranslations)
+# ============================================================
 # 천사의 시 한글 패치 원클릭 빌드 스크립트
 # 실행: powershell -ExecutionPolicy Bypass -File scripts\build_patch.ps1
 # (작업 기준 폴더 = 이 스크립트의 상위 폴더 = translation)
@@ -6,9 +7,9 @@
 $ErrorActionPreference = "Stop"
 $root = Split-Path $PSScriptRoot            # translation 폴더
 $scripts = $PSScriptRoot
-$retoc = Join-Path $root "tools\retoc.exe"
-$repak = Join-Path $root "tools\repak.exe"
-$paksDir = (Resolve-Path (Join-Path $root "..\RomFS\Emulator_Tenshinouta\Content\Paks")).Path
+$retoc = (Resolve-Path -LiteralPath $RetocPath).Path
+$repak = (Resolve-Path -LiteralPath $RepakPath).Path
+$paksDir = (Resolve-Path -LiteralPath $SourcePaks).Path
 $work = Join-Path $root "work"
 $srcDir = Join-Path $work "src"             # 원본 legacy 추출본
 $patchDir = Join-Path $work "patch_src"     # 패치 적용본 (to-zen 입력)
@@ -18,6 +19,17 @@ $backup = Join-Path $root "백업_csv"
 function Step($msg) { Write-Host "`n=== $msg ===" -ForegroundColor Cyan }
 
 # ------------------------------------------------------------
+
+function Assert-IsolatedBuildWork([string]$path) {
+    $expected = [IO.Path]::GetFullPath((Join-Path $root 'work')).TrimEnd('\')
+    $actual = [IO.Path]::GetFullPath($path).TrimEnd('\')
+    if ($actual -cne $expected) { throw 'Build work path outside expected directory' }
+    if (Test-Path -LiteralPath $path) {
+        $items = @((Get-Item -LiteralPath $path -Force)) + @(Get-ChildItem -LiteralPath $path -Force -Recurse)
+        if (@($items | Where-Object { ($_.Attributes -band [IO.FileAttributes]::ReparsePoint) -ne 0 }).Count -ne 0) { throw 'Reparse point in build work directory' }
+    }
+}
+Assert-IsolatedBuildWork $work
 Step "0. 작업 폴더 초기화"
 if (Test-Path $work) { Remove-Item -Recurse -Force $work }
 New-Item -ItemType Directory -Force -Path $srcDir, $patchDir, $outDir | Out-Null
@@ -74,6 +86,11 @@ python (Join-Path $scripts "build_ui_replacements.py") $srcDir $uiCsv (Join-Path
 python (Join-Path $scripts "build_st_replacements.py") "$content\Localization\DataTable_Game1\ST_OutGameInfo_Game1.uexp" $stCsv (Join-Path $work "repl_st.json")
 
 # ------------------------------------------------------------
+if (-not $CurrentTranslations) {
+    foreach ($plan in @('repl_tenshi.json', 'repl_vs.json', 'repl_ui.json', 'repl_st.json')) {
+        Copy-Item -LiteralPath (Join-Path $root "../assets/release_plans/$plan") -Destination (Join-Path $work $plan) -Force
+    }
+}
 Step "6. 바이너리 패치 적용 (uexp 문자열 교체 + uasset SerialSize 갱신)"
 # 대상 파일별 원본 SerialSize / SerialOffset (변하지 않는 상수)
 $targets = @(
@@ -172,9 +189,19 @@ Write-Host "  OK: WBP_Paging 커서 Hidden 적용"
 Copy-Item (Join-Path $srcDir "scriptobjects.bin") $patchDir -Force
 
 # ------------------------------------------------------------
+if (-not $CurrentTranslations) {
+    $manualAssetRoot = Join-Path $root 'manual_patch_assets'
+    if (-not (Test-Path -LiteralPath $manualAssetRoot)) { throw 'Run prepare_build_inputs.py first; frozen manual assets are required' }
+    foreach ($asset in (Get-ChildItem -LiteralPath $manualAssetRoot -Recurse -File)) {
+        $relative = $asset.FullName.Substring($manualAssetRoot.Length + 1)
+        $destination = Join-Path $patchDir $relative
+        New-Item -ItemType Directory -Force -Path (Split-Path $destination) | Out-Null
+        Copy-Item -LiteralPath $asset.FullName -Destination $destination -Force
+    }
+}
 Step "6.5 매뉴얼 이미지 주입 (매뉴얼_번역\*.png 있을 때만)"
 $manualPng = Join-Path $root "매뉴얼_번역"
-if ((Test-Path $manualPng) -and (Get-ChildItem $manualPng -Filter "Manual1_*.png" -ErrorAction SilentlyContinue)) {
+if ($CurrentTranslations -and (Test-Path $manualPng) -and (Get-ChildItem $manualPng -Filter "Manual1_*.png" -ErrorAction SilentlyContinue)) {
     $manualSrc = Join-Path $work "manual_src"
     New-Item -ItemType Directory -Force -Path $manualSrc | Out-Null
     & $retoc to-legacy -f "ManualBook" --version UE5_4 $paksDir $manualSrc | Out-Null
@@ -214,17 +241,4 @@ if (-not (Test-Path (Join-Path $deploy "TenshiKR_Font_P.pak"))) { throw "폰트 
 
 Get-ChildItem $deploy | Format-Table Name, Length, LastWriteTime -AutoSize
 
-$edenDeploy = "H:\Eden\user\load\010096F021294000\Korean_Patch\romfs\Emulator_Tenshinouta\Content\Paks"
-if (Test-Path "H:\") {
-    New-Item -ItemType Directory -Force -Path $edenDeploy | Out-Null
-    Copy-Item (Join-Path $deploy "TenshiKR_P.pak") $edenDeploy -Force
-    Copy-Item (Join-Path $deploy "TenshiKR_P.ucas") $edenDeploy -Force
-    Copy-Item (Join-Path $deploy "TenshiKR_P.utoc") $edenDeploy -Force
-    Copy-Item (Join-Path $deploy "TenshiKR_Font_P.pak") $edenDeploy -Force
-    Write-Host "`nEden 모드 폴더로 복사 완료:" -ForegroundColor Green
-    Write-Host "  $edenDeploy"
-} else {
-    Write-Host "`nEden 모드 폴더 복사 건너뜀: H:\ 드라이브를 찾을 수 없습니다." -ForegroundColor Yellow
-}
-
-Write-Host "`n빌드 완료. patch_P 폴더의 파일들을 에뮬레이터 모드 폴더에 복사하세요." -ForegroundColor Green
+Write-Host "Build complete. Outputs remain in translation/patch_P; no emulator deployment."
