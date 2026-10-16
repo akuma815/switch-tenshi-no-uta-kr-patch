@@ -1,3 +1,5 @@
+> Local Switch game folders were removed on 2026-10-16. See the latest dated handoff and cleanup_completed_2026-10-16.json.
+
 # Latest handoff
 
 [2026-10-16 Switch rebuild and folder cleanup assessment](HANDOFF_2026-10-16.md)
