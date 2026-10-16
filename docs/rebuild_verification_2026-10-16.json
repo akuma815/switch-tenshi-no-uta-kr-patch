@@ -1,0 +1,81 @@
+{
+  "status": "PASS",
+  "date": "2026-10-16",
+  "game": "Tenshi no Uta",
+  "platform": "Nintendo Switch",
+  "remote": "https://github.com/akuma815/switch-tenshi-no-uta-kr-patch",
+  "verified_source_commit": "9508fe79826da34bcce3eab679c6b792005ea133",
+  "checkout_origin": "Fresh public GitHub clone, fast-forwarded to the repaired restoration entrypoint. No input copied from the game work folder.",
+  "original_input": "Owned base NSP and v1.0.1 update from H:/ryujinx/Roms and H:/ryujinx/Update; extracted anew with the public helper and external tools/keyset.",
+  "environment": "Existing Python 3.12.10 with pinned requirements; not a clean OS or virtual environment test.",
+  "release_archive_verification": {
+    "status": "PASS",
+    "archive_sha256": "833d877c22d85253e70183360abdf788252ccbcbb2bd7ab1964983d7c298e9af",
+    "release_payloads": {
+      "TenshiKR_Font_P.pak": "efc859e73092b6c08ece04876559f8fb0d7b97b0869f47afd942d68a7d8b511c",
+      "TenshiKR_P.pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "TenshiKR_P.ucas": "f2e83254795e4475a7b266fbe8957f08981dc5c80d7e5c17cbd455dcb6bf6e5b",
+      "TenshiKR_P.utoc": "bde251e17bdc68a1d4fffdd0f9d63146e38b42789552798a0ec828f5b7155acc"
+    }
+  },
+  "input_preparation": {
+    "status": "PASS",
+    "game_number": 1,
+    "manuals_restored": 40,
+    "compiled_media_dependency": null
+  },
+  "rebuilt_payload_verification": {
+    "status": "PASS",
+    "evidence_class": "Build and decoded container payload verification; no new runtime test",
+    "iostore_payload_count": 53,
+    "all_iostore_payloads_equal_release": true,
+    "ufs_payload_count": 0,
+    "all_ufs_payloads_equal_release": true,
+    "font_pak_byte_identical": true,
+    "container_sha256": {
+      "TenshiKR_Font_P.pak": "efc859e73092b6c08ece04876559f8fb0d7b97b0869f47afd942d68a7d8b511c",
+      "TenshiKR_P.pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "TenshiKR_P.ucas": "50a02312e3fd23ad63d44a7951c727c872cfe0e24c18c5be4043def7f55c0c5a",
+      "TenshiKR_P.utoc": "2a96cda7ec45d7c4c04c0e83d9f0fb0acc0c28dab9fb91134e64db928ee9d7b0"
+    },
+    "container_byte_identity": {
+      "TenshiKR_Font_P.pak": true,
+      "TenshiKR_P.pak": true,
+      "TenshiKR_P.ucas": false,
+      "TenshiKR_P.utoc": false
+    },
+    "container_identity_note": "Container assembly bytes can differ. Payload equality is checked separately; byte-identical distribution archives remain on the pinned GitHub releases."
+  },
+  "game_folder_before_document_update": {
+    "files": 370,
+    "bytes": 455837112,
+    "reparse_points": []
+  },
+  "private_authoring_archive": {
+    "path": "work/tenshi_switch_rebuild_audit_20261016/Tenshi_Switch_1_authoring_records_20261016.zip",
+    "bytes": 166836330,
+    "sha256": "182cb25c44114a684e8b5ffa6be1fc44b265f5bf2c0ad9ca5fe42bf0addf627b",
+    "records": 81,
+    "verification": "ZIP CRC and size/SHA-256 comparison for each selected original file"
+  },
+  "deletion_assessment": {
+    "final_release_payload_recovery": "PASS",
+    "editable_authoring_backup": "PASS",
+    "named_game_folder_can_be_removed_with_retained_dependencies": true,
+    "required_to_keep": [
+      "Supported original NSP/update and private keyset on H:",
+      "Published Git source and fixed release assets",
+      "External extraction/build tools",
+      "Verified private authoring archive"
+    ],
+    "special_condition": "No released movie input is required for game 1.",
+    "performed": false,
+    "scope": "Only this Switch game folder; the PCE project is outside scope."
+  },
+  "limits": [
+    "Whole-container hashes are not claimed identical; all decoded content is compared to the public release.",
+    "No new runtime, full playthrough, hardware, scene-visual or audio verification.",
+    "Frozen release plans preserve the existing release; latest translation sheets were not changed.",
+    "Editable manual PNGs are preserved in the private archive rather than reconstructed from cooked textures."
+  ]
+}

@@ -1,3 +1,5 @@
+> Historical build notes. Current supported reconstruction and limits: [2026-10-16 guide](../docs/REBUILD_2026-10-16.md).
+
 # 천사의 시 한글 패치 빌드 문서
 
 `천사의 시`(Switch판, UE 5.4 IoStore 컨테이너) 한글 패치의 빌드 절차와 구조를 정리한 문서다.
